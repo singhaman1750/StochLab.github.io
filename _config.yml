@@ -1,5 +1,5 @@
-name: REx Lab
-url: https://roboticexplorationlab.github.io
+name: Stoch Lab
+url: https://stochlab.github.io
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 

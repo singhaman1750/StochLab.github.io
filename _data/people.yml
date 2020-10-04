@@ -1,153 +1,166 @@
-zac:
-    display_name: "Zac Manchester"
-    webpage: "http://zacmanchester.com"
-    github: zacmanchester
+shishir:
+    display_name: "Shishir Kolathaya"
+    webpage: "https://shishirny.github.io/"
+    github: shishirny
     role: faculty
-    image: /img/people/zac.jpg
+    image: /img/people/shishir.jpg
     bio: Assistant Professor
 
-taylor:
-    display_name: "Taylor Howell"
-    webpage: "https://thowell.github.io"
-    github: thowell
+bharadwaj:
+    display_name: "Bharadwaj Amrutur"
+    webpage: "https://aml.ece.iisc.ac.in/index.php/Bharadwaj_Amrutur"
+    #github: shishirny
+    role: faculty
+    image: /img/people/bharadwaj.jpg
+    bio: Professor
+
+shalabh:
+    display_name: "Shalabh Bhatnagar"
+    webpage: "https://www.csa.iisc.ac.in/~shalabh/"
+    role: faculty
+    image: /img/people/shalabh.jpg
+    bio: Professor
+
+Ashitava:
+    display_name: "Ashitava Ghosal"
+    webpage: "https://mecheng.iisc.ac.in/people/ashitava-ghosal/"
+    role: faculty
+    image: /img/people/ashitava.jpg
+    bio:  Professor
+
+
+ashish:
+    display_name: "Ashish Joglekar"
+    #webpage: "https://thowell.github.io"
+    #github: adityasagi
+    role:  staff
+    image: /img/people/ashish.jpg
+    bio: Researcher
+
+aditya:
+    display_name: "Aditya Sagi"
+    #webpage: "https://thowell.github.io"
+    github: adityasagi
+    role:  staff
+    image: /img/people/aditya.jpeg
+    bio: Technical Associate
+alok:
+    display_name: "Alok Rawat"
+    #webpage: "https://simon-lc.github.io/"
+    #github: simon-lc
+    role: staff
+    image: /img/people/alok.jpg
+    bio: Technical Associate
+
+varun:
+    display_name: "Varun"
+    #webpage: "https://www.ei.tum.de/en/itr/bruedigam/"
+    #github: janbruedigam
+    role: staff
+    image: /img/people/varun.jpeg
+    bio: Technical Associate
+
+kartik:
+    display_name: "Kartik Paigwar"
+    webpage: "https://kartikpaigwar.github.io"
+    github: kartikpaigwar
+    role: staff
+    image: /img/people/Kartik.png
+    bio: Project Associate
+
+
+sagar:
+    display_name: "Sagar Gubi "
+    webpage: "http://www.sagargv.com/"
+    github: s-gv
     role: phd
-    image: /img/people/taylor.jpg
-    bio: Optimization through contact
+    image: /img/people/sagar.jpg
+    bio: ECE, IISc
 
-brian:
-    display_name: "Brian Jackson"
-    webpage: "https://bjack205.github.io"
-    github: bjack205
+
+pramod:
+    display_name: "Pramod Pal"
+    #webpage: "https://github.com/ppalcx"
+    github: ppalcx
     role: phd
-    image: /img/people/brian.jpg
-    bio: Real-time motion planning
+    image: /img/people/pramod.jpg
+    bio: ME, IISc
 
-max:
-    display_name: "Max Holliday"
-    webpage: "https://github.com/maholli"
-    github: maholli
-    role: phd
-    image: /img/people/max.jpg
-    bio: Space-resilient hardware
-
-simon:
-    display_name: "Simon Le Cleac'h"
-    webpage: "https://simon-lc.github.io/"
-    github: simon-lc
-    role: phd
-    image: /img/people/simon.jpg
-    bio: Optimizing game-theoretic interactions
-
-andrew:
-    display_name: "Andrew Gatherer"
-    webpage: "https://www.linkedin.com/in/andrew-gatherer-72211862/"
-    github: GathererA
-    role: alum
-    image: /img/people/andrew.jpg
-    bio: Improving small-satellites
-
-jan:
-    display_name: "Jan Bruedigam"
-    webpage: "https://www.ei.tum.de/en/itr/bruedigam/"
-    github: janbruedigam
-    role: alum
-    image: /img/people/jan.jpg
-    bio: Modernizing physics engines
-
-laura:
-    display_name: "Laura Lee"
-    webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: alum
-    image: /img/people/laura.jpg
-    bio: Master's Student
-
-nathan:
-    display_name: "Nathan Kau"
-    webpage: "https://nathankau.com/"
-    role: ugrad
-    image: /img/people/nathankau.jpg
-    bio: Undergraduate Student
-
-tarun:
-    display_name: "Tarun Punnoose"
-    webpage: "https://punnoo.se/"
-    role: ugrad
-    image: /img/people/tarun.jpg
-    bio: Undergraduate Student
-
-aaron:
-    display_name: "Aaron Schultz"
-    webpage: "https://www.linkedin.com/in/aaron-s-a4aa2685/"
-    role: ugrad
-    image: /img/people/aaron.jpg
-    bio: Undergraduate Student
-
-remy:
-    display_name: "Remy Derollez"
-    webpage: "https://www.linkedin.com/in/r%C3%A9my-derollez-43a60912b/"
-    github: Derollez
-    role: alum
-    image: /img/people/remy.jpg
-    bio: Robust motion planning
-
-jared:
-    display_name: "Jared Blanchard"
-    webpage: "https://jaredblanchard.com"
-    github: jared711
+Soumya:
+    display_name: "Soumya Rani"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
     role: masters
-    image: /img/people/jared.jpg
-    bio: Optimizing Spacecraft Trajectories
+    #image: /img/people/laura.jpg
+    bio: CSA, IISc
 
-kevin:
-    display_name: "Kevin Tracy"
-    webpage: "https://www.linkedin.com/in/kevin-tracy/"
-    github: kevintracy7
-    role: phd
-    image: /img/people/kevin.jpg
-    bio: Spacecraft dynamics
+sashank:
+    display_name: "Sashank Tirumala"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: fellow
+    #image: /img/people/pramod.jpg
+    bio: Dual-Degree, IIT, Madras
 
-# grad-a:
-#     display_name: "Grad A"
-#     role: grad
+soutrik:
+    display_name: "Soutrik Bandyopadhyay  "
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: fellow
+    #image: /img/people/pramod.jpg
+    bio: PhD, IIT, Delhi
 
-# grad-b:
-#     display_name: "Graduate Student B With Long Name"
-#     role: grad
+lokesh:
+    display_name: "Lokesh Krishna"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: intern
+    #image: /img/people/pramod.jpg
+    bio: B.Tech., IIT BHU
 
-# alum-a:
-#     display_name: "Alum A"
-#     role: alum
-#     bio: "Ph.D., 2013. Now at Microsoft Research."
+naman:
+    display_name: "Naman Khetan"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: intern
+    #image: /img/people/pramod.jpg
+    bio: B.Tech., ISM Dhanbad
 
-# alum-b:
-#     display_name: "Alum B With Way Longer Name"
-#     role: alum
 
-# alum-c:
-#     display_name: "Alum C"
-#     role: alum
-#     webpage: "https://www.google.com"
 
-# collab-a:
-#     display_name: "Collaborator A"
-#     role: collab
+Dhaivat:
+    display_name: "Dhaivat Dholakiya"
+    webpage: "https://sites.google.com/view/dhaivatdh/home"
+    #github: jared711
+    role: alum
+    #image: /img/people/jared.jpg
+    bio: Grad Student, ASU
 
-# collab-b:
-#     display_name: "Collaborator B With Long Name"
-#     role: collab
+abhik:
+    display_name: "Abhik Singla"
+    webpage: "https://sites.google.com/view/abhiksingla/home"
+    #github: Derollez
+    role: alum
+    #image: /img/people/remy.jpg
+    bio: Grad Student, UMass
 
-# ugrad-a:
-#     display_name: "Ugrad A"
-#     role: ugrad
 
-# ugrad-b:
-#     display_name: "Ugrad Student B With Long Name"
-#     role: ugrad
 
-# ugrad-alum-a:
-#     display_name: "Past Ugrad A"
-#     role: ugrad-alum
+Shounak:
+    display_name: "Shounak Bhattacharya"
+    webpage: "https://www.linkedin.com/in/shounakbh/"
+    #github: Derollez
+    role: alum
+    #image: /img/people/remy.jpg
+    bio: Research Engineer, NUS
 
-# ugrad-alum-b:
-#     display_name: "Past Ugrad Student B With Long Name"
-#     role: ugrad-alum
+Abhimanyu:
+    display_name: "Abhimanyu"
+    #webpage: "https://www.linkedin.com/in/shounakbh/"
+    #github: Derollez
+    role: alum
+    #image: /img/people/remy.jpg
+    bio: Research Assistant, CMU
+
+Ajay:
+    display_name: "Ajay Gunalan"
+    webpage: "https://ajaygunalan.github.io/"
+    #github: Derollez
+    role: alum
+    #image: /img/people/remy.jpg
+    bio: Research Fellow, IIT, Italy

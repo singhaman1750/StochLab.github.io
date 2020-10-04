@@ -57,6 +57,8 @@ navigation:
     link: /code.html
   - title: Calendar
     link: /calendar.html
+  - title: Youtube
+    link: https://www.youtube.com/channel/UC4SBmq_fVgzyaqHHyITkSjA
   - title: Joining
     link: /join.html
 theme: jekyll-theme-cayman

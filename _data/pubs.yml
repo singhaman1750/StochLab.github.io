@@ -1,8 +1,8 @@
-- title: "Design, development and experimental realization of a quadrupedal research platform Stoch"
+- title: "Design, development and experimental realization of a quadrupedal research platform :Stoch"
   authors: [Dholakiya, Dhaivat and Bhattacharya, Shounak and Gunalan, Ajay and Singla, Abhik and Bhatnagar, Shalabh and Amrutur, Bharadwaj and Ghosal, Ashitava and Kolathaya, Shishir]
   date: 2019-08-09
   pub-type: conference
-  publisher: "IEEE"
+  publisher: "IEEE ICCAR 2019"
   pdf: Design.pdf
   venue: Beijing, China
 
@@ -17,7 +17,7 @@
 
   title: "Trajectory based deep policy search for quadrupedal walking"
   authors: [Kolathaya, Shishir and Joglekar, Ashish and Shetty, Suhan and Dholakiya, Dhaivat and Sagi, Aditya and Bhattacharya, Shounak and Singla, Abhik and Bhatnagar, Shalabh and Ghosal, Ashitava and Amrutur, Bharadwaj and others]
-  date: 2020-01-13
+  date: 2019-10-13
   pub-type: conference
   publisher: "IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)"
   pdf: "Trajectory based.pdf"
@@ -25,9 +25,9 @@
 
 - title: "Learning active spine behaviors for dynamic and efficient locomotion in quadruped robots"
   authors: [Bhattacharya, Shounak and Singla, Abhik and Dholakiya, Dhaivat and Bhatnagar, Shalabh and Amrutur, Bharadwaj and Ghosal, Ashitava and Kolathaya, Shishir and others]
-  date: 2019-05-16
+  date: 2019-10-14
   pub-type: conference
-  publisher: "IEEE RO-MAN"
+  publisher: "IEEE International Conference on Robot & Human Interactive Communication (RO-MAN)"
   pdf: Learning active.pdf
   venue: New Delhi, India
   
@@ -36,7 +36,7 @@
   authors: [Tirumala, Sashank and Gubbi, Sagar and Paigwar, Kartik and Sagi, Aditya and Joglekar, Ashish and Bhatnagar, Shalabh and Ghosal, Ashitava and Amrutur, Bharadwaj and Kolathaya, Shishir]
   date: 2020-07-28
   pub-type: conference
-  publisher: Robot and Human Interaction Conference Italy 2020
+  publisher: "IEEE International Conference on Robot & Human Interactive Communication (RO-MAN)"
   status: Accepted
   venue: Naples, Italy
   pdf: Learning Stable.pdf
@@ -45,8 +45,8 @@
 - title: Gait Library Synthesis for Quadruped Robots via Augmented Random Search
   authors: [Tirumala, Sashank and Sagi, Aditya and Paigwar, Kartik and Joglekar, Ashish and Bhatnagar, Shalabh and Ghosal, Ashitava and Amrutur, Bharadwaj and Kolathaya, Shishir]
   date: 2019-12-30
-  pub-type: pre print
-  publisher: 
+  pub-type: preprint
+  publisher: preprint
   pdf: Gait Library.pdf
 
 

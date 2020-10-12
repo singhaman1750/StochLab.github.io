@@ -67,9 +67,5 @@ obtained through regression
 <img src="/img/tile_sidestep.png" alt="drawing" width="600"/>
 <img src="/img/tile_turn.png" alt="drawing" width="600"/>
 
-
-# Related Papers and Videos
-* [ Learning Stable Manoeuvres in Quadruped Robots from Expert Demonstrations ](/papers/Learning Stable.pdf)  
-* [ Gait Library Synthesis for Quadruped Robots via Augmented Random Search ](/papers/Gait Library.pdf) 
 [![Gait Library Synthesis](http://i3.ytimg.com/vi/3BQYX2vZdAg/hqdefault.jpg)](https://www.youtube.com/watch?v=3BQYX2vZdAg&t=97s&ab_channel=Stoch_IISc "ICCAR")
 [![Gait Library Synthesis](http://i3.ytimg.com/vi/LRbHetp0dcg/hqdefault.jpg)](https://www.youtube.com/watch?v=LRbHetp0dcg&t=15s&ab_channel=kartikpaigwar "ICCAR")

@@ -5,6 +5,7 @@
   publisher: "IEEE ICCAR 2019"
   pdf: Design.pdf
   venue: Beijing, China
+  projects: [stochdesign]
 
 - title: "Realizing learned quadruped locomotion behaviors through kinematic motion primitives"
   authors: [Singla, Abhik and Bhattacharya, Shounak and Dholakiya, Dhaivat and Bhatnagar, Shalabh and Ghosal, Ashitava and Amrutur, Bharadwaj and Kolathaya, Shishir]
@@ -13,7 +14,9 @@
   publisher: ICRA 2019
   pdf: Realizing learned.pdf
   venue: Montreal, Canada
- 
+  projects: [ stochdesign ]
+
+
 
   title: "Trajectory based deep policy search for quadrupedal walking"
   authors: [Kolathaya, Shishir and Joglekar, Ashish and Shetty, Suhan and Dholakiya, Dhaivat and Sagi, Aditya and Bhattacharya, Shounak and Singla, Abhik and Bhatnagar, Shalabh and Ghosal, Ashitava and Amrutur, Bharadwaj and others]
@@ -22,6 +25,8 @@
   publisher: "IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)"
   pdf: "Trajectory based.pdf"
   venue: New Delhi, India
+  projects: [ Trajectoryopt ]
+
 
 - title: "Learning active spine behaviors for dynamic and efficient locomotion in quadruped robots"
   authors: [Bhattacharya, Shounak and Singla, Abhik and Dholakiya, Dhaivat and Bhatnagar, Shalabh and Amrutur, Bharadwaj and Ghosal, Ashitava and Kolathaya, Shishir and others]
@@ -30,7 +35,9 @@
   publisher: "IEEE International Conference on Robot & Human Interactive Communication (RO-MAN)"
   pdf: Learning active.pdf
   venue: New Delhi, India
-  
+  projects: [ spine ]
+
+
 
 - title: Learning Stable Manoeuvres in Quadruped Robots from Expert Demonstrations
   authors: [Tirumala, Sashank and Gubbi, Sagar and Paigwar, Kartik and Sagi, Aditya and Joglekar, Ashish and Bhatnagar, Shalabh and Ghosal, Ashitava and Amrutur, Bharadwaj and Kolathaya, Shishir]
@@ -40,7 +47,8 @@
   status: Accepted
   venue: Naples, Italy
   pdf: Learning Stable.pdf
-  
+  projects: [ Augmented Random Search ]
+
 
 - title: Gait Library Synthesis for Quadruped Robots via Augmented Random Search
   authors: [Tirumala, Sashank and Sagi, Aditya and Paigwar, Kartik and Joglekar, Ashish and Bhatnagar, Shalabh and Ghosal, Ashitava and Amrutur, Bharadwaj and Kolathaya, Shishir]
@@ -48,6 +56,8 @@
   pub-type: preprint
   publisher: preprint
   pdf: Gait Library.pdf
+  projects: [ Augmented Random Search ]
+
 
 
 

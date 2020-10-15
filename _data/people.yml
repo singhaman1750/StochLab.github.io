@@ -109,9 +109,9 @@ sashank:
 
 lokesh:
     display_name: "Lokesh Krishna"
-    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    webpage: "https://www.linkedin.com/in/lokesh-krishna-92911719b/"
     role: intern
-    #image: /img/people/pramod.jpg
+    image: /img/people/lokesh.jpeg
     bio: B.Tech., IIT BHU
 
 naman:
@@ -119,7 +119,7 @@ naman:
     #webpage: "https://www.linkedin.com/in/lauraleeane/"
     role: intern
     #image: /img/people/pramod.jpg
-    bio: B.Tech., ISM Dhanbad
+    bio: Dual-Degree, ISM Dhanbad
 
 
 

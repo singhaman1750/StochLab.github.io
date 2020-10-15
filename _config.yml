@@ -25,7 +25,7 @@ roles:
   - key: masters
     name: Masters Students
   - key: fellow
-    name: Research Fellow
+    name: Visiting Students
   - key: intern
     name: Interns
 #  - key: ugrad-alum
@@ -55,8 +55,8 @@ navigation:
     link: /publications.html
   - title: Code
     link: /code.html
-  - title: Calendar
-    link: /calendar.html
+#  - title: Calendar
+#    link: /calendar.html
   - title: Youtube
     link: https://www.youtube.com/channel/UC4SBmq_fVgzyaqHHyITkSjA
   - title: Joining

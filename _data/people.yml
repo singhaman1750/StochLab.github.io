@@ -21,7 +21,7 @@ shalabh:
     image: /img/people/shalabh.jpg
     bio: Professor
 
-Ashitava:
+ashitava:
     display_name: "Ashitava Ghosal"
     webpage: "https://mecheng.iisc.ac.in/people/ashitava-ghosal/"
     role: faculty
@@ -73,9 +73,9 @@ sagar:
     display_name: "Sagar Gubi "
     webpage: "http://www.sagargv.com/"
     github: s-gv
-    role: phd
+    role: alum
     image: /img/people/sagar.jpg
-    bio: ECE, IISc
+    bio: PhD, ECE, IISc
 
 
 pramod:
@@ -100,12 +100,12 @@ sashank:
     #image: /img/people/pramod.jpg
     bio: Dual-Degree, IIT, Madras
 
-soutrik:
-    display_name: "Soutrik Bandyopadhyay  "
-    #webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: fellow
-    #image: /img/people/pramod.jpg
-    bio: PhD, IIT, Delhi
+#soutrik:
+#    display_name: "Soutrik Bandyopadhyay  "
+#    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+#    role: fellow
+#    #image: /img/people/pramod.jpg
+#    bio: PhD, IIT, Delhi
 
 lokesh:
     display_name: "Lokesh Krishna"

@@ -9,7 +9,7 @@
 
 - title: "Realizing learned quadruped locomotion behaviors through kinematic motion primitives"
   authors: [Singla, Abhik and Bhattacharya, Shounak and Dholakiya, Dhaivat and Bhatnagar, Shalabh and Ghosal, Ashitava and Amrutur, Bharadwaj and Kolathaya, Shishir]
-  date: 2019-02-26
+  date: 2019-05-28
   pub-type: conference
   publisher: ICRA 2019
   pdf: Realizing learned.pdf
@@ -18,7 +18,7 @@
 
 
 
-  title: "Trajectory based deep policy search for quadrupedal walking"
+- title: "Trajectory based deep policy search for quadrupedal walking"
   authors: [Kolathaya, Shishir and Joglekar, Ashish and Shetty, Suhan and Dholakiya, Dhaivat and Sagi, Aditya and Bhattacharya, Shounak and Singla, Abhik and Bhatnagar, Shalabh and Ghosal, Ashitava and Amrutur, Bharadwaj and others]
   date: 2019-10-13
   pub-type: conference

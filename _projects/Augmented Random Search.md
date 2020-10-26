@@ -42,7 +42,7 @@ these results in the in-house quadruped Stoch 2.
 
 
 
-###Gait Library Synthesis for Quadruped Robots via Augmented Random Search
+### Gait Library Synthesis for Quadruped Robots via Augmented Random Search ###
 In this paper, with a view toward fast deployment
 of learned locomotion gaits in low-cost hardware, we generate a
 library of walking trajectories, namely, forward trot, backward
@@ -63,9 +63,30 @@ by using a low-pass filter for the phase, and the sim-to-real
 transfer is improved by a linear transformation of the states
 obtained through regression
 
+<br/>
 <img src="/img/tile_backtrot.png" alt="drawing" width="600"/>
 <img src="/img/tile_sidestep.png" alt="drawing" width="600"/>
 <img src="/img/tile_turn.png" alt="drawing" width="600"/>
 
-[![Gait Library Synthesis](http://i3.ytimg.com/vi/3BQYX2vZdAg/hqdefault.jpg)](https://www.youtube.com/watch?v=3BQYX2vZdAg&t=97s&ab_channel=Stoch_IISc "ICCAR")
-[![Gait Library Synthesis](http://i3.ytimg.com/vi/LRbHetp0dcg/hqdefault.jpg)](https://www.youtube.com/watch?v=LRbHetp0dcg&t=15s&ab_channel=kartikpaigwar "ICCAR")
+[![Gait Library Synthesis](http://i3.ytimg.com/vi/3BQYX2vZdAg/hqdefault.jpg)](https://www.youtube.com/watch?v=3BQYX2vZdAg&t=97s&ab_channel=Stoch_IISc "GaitLibrary")
+[![Learning Stable Manuveuers](http://i3.ytimg.com/vi/LRbHetp0dcg/hqdefault.jpg)](https://www.youtube.com/watch?v=LRbHetp0dcg&t=15s&ab_channel=kartikpaigwar "ROMAN")
+
+<br/>
+## Citation ##
+```
+        @article{tirumala2019gait,
+          title={Gait Library Synthesis for Quadruped Robots via Augmented Random Search},
+          author={Tirumala, Sashank and Sagi, Aditya and Paigwar, Kartik and Joglekar, Ashish and Bhatnagar, Shalabh and Ghosal, Ashitava and Amrutur, Bharadwaj and Kolathaya, Shishir},
+          journal={arXiv preprint arXiv:1912.12907},
+          year={2019}
+        }
+        
+        @article{tirumala2020learning,
+          title={Learning Stable Manoeuvres in Quadruped Robots from Expert Demonstrations},
+          author={Tirumala, Sashank and Gubbi, Sagar and Paigwar, Kartik and Sagi, Aditya and Joglekar, Ashish and Bhatnagar, Shalabh and Ghosal, Ashitava and Amrutur, Bharadwaj and Kolathaya, Shishir},
+          journal={arXiv preprint arXiv:2007.14290},
+          year={2020}
+        }
+        
+```
+<br/>

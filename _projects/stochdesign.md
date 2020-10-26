@@ -65,3 +65,26 @@ derived behaviors from a single learned gait
 
 [![ICCAR](http://i3.ytimg.com/vi/EXb4tONlJe0/hqdefault.jpg)](https://www.youtube.com/watch?v=EXb4tONlJe0&ab_channel=DhaivatDholakiya "ICCAR")
 [![ICRA](http://i3.ytimg.com/vi/Wxx9pwwTIL4/hqdefault.jpg)](https://www.youtube.com/watch?v=Wxx9pwwTIL4&t=7s&ab_channel=Stoch_IISc "ICRA")
+
+<br/>
+## Citation ##
+```
+        @inproceedings{dholakiya2019design,
+          title={Design, development and experimental realization of a quadrupedal research platform: Stoch},
+          author={Dholakiya, Dhaivat and Bhattacharya, Shounak and Gunalan, Ajay and Singla, Abhik and Bhatnagar, Shalabh and Amrutur, Bharadwaj and Ghosal, Ashitava and Kolathaya, Shishir},
+          booktitle={2019 5th International Conference on Control, Automation and Robotics (ICCAR)},
+          pages={229--234},
+          year={2019},
+          organization={IEEE}
+        }
+        
+        @inproceedings{singla2019realizing,
+          title={Realizing learned quadruped locomotion behaviors through kinematic motion primitives},
+          author={Singla, Abhik and Bhattacharya, Shounak and Dholakiya, Dhaivat and Bhatnagar, Shalabh and Ghosal, Ashitava and Amrutur, Bharadwaj and Kolathaya, Shishir},
+          booktitle={2019 International Conference on Robotics and Automation (ICRA)},
+          pages={7434--7440},
+          year={2019},
+          organization={IEEE}
+        }
+```
+<br/>

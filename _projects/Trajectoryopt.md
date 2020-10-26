@@ -15,7 +15,7 @@ people:
   - shalabh
   - bharadwaj 
   - ashitava
-  
+
 
 layout: project
 image: "/img/Trajopt.png"
@@ -44,3 +44,17 @@ Stoch 2, thereby validating our approach.
 <img src="/img/tiles.jpg" alt="drawing" width="600"/>
 
 [![Trajectory based Deep Policy Search Video](http://i3.ytimg.com/vi/AxMeGESpuvc/hqdefault.jpg)](https://www.youtube.com/watch?v=AxMeGESpuvc&ab_channel=StochIISc "ICCAR")
+
+<br/>
+## Citation ##
+```
+        @inproceedings{kolathaya2019trajectory,
+          title={Trajectory based deep policy search for quadrupedal walking},
+          author={Kolathaya, Shishir and Joglekar, Ashish and Shetty, Suhan and Dholakiya, Dhaivat and Sagi, Aditya and Bhattacharya, Shounak and Singla, Abhik and Bhatnagar, Shalabh and Ghosal, Ashitava and Amrutur, Bharadwaj and others},
+          booktitle={2019 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)},
+          pages={1--6},
+          year={2019},
+          organization={IEEE}
+        }
+```
+<br/>

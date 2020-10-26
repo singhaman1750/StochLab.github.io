@@ -43,6 +43,4 @@ Stoch 2, thereby validating our approach.
 
 <img src="/img/tiles.jpg" alt="drawing" width="600"/>
 
-# Related Papers and Videos
-* [Trajectory based Deep Policy Search for Quadrupedal Walking](/papers/Trajectory based.pdf)  
 [![Trajectory based Deep Policy Search Video](http://i3.ytimg.com/vi/AxMeGESpuvc/hqdefault.jpg)](https://www.youtube.com/watch?v=AxMeGESpuvc&ab_channel=StochIISc "ICCAR")

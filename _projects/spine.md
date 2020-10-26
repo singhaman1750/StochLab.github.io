@@ -41,9 +41,4 @@ the natural frequency to more realistic values
 
 <img src="/img/spine2.jpg" alt="drawing" width="600"/>
 
-# Related Papers and Videos
-
-*[Learning Active Spine Behaviors for Dynamic and Efficient Locomotion in Quadruped Robots](/papers/Learning active.pdf) 
-
- 
 [![Active spine](http://i3.ytimg.com/vi/INp4aa-8z2E/hqdefault.jpg)](https://www.youtube.com/watch?v=INp4aa-8z2E&ab_channel=StochIISc )

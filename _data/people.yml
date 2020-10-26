@@ -86,7 +86,7 @@ pramod:
     image: /img/people/pramod.jpg
     bio: ME, IISc
 
-Soumya:
+soumya:
     display_name: "Soumya Rani"
     #webpage: "https://www.linkedin.com/in/lauraleeane/"
     role: masters
@@ -100,12 +100,19 @@ sashank:
     #image: /img/people/pramod.jpg
     bio: Dual-Degree, IIT, Madras
 
-#soutrik:
-#    display_name: "Soutrik Bandyopadhyay  "
-#    #webpage: "https://www.linkedin.com/in/lauraleeane/"
-#    role: fellow
-#    #image: /img/people/pramod.jpg
-#    bio: PhD, IIT, Delhi
+tejas:
+    display_name: "Tejas Rane"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: fellow
+    #image: /img/people/pramod.jpg
+    bio: B.E. BITS, Pilani, Goa
+
+avinash:
+    display_name: "Avinash"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: fellow
+    #image: /img/people/pramod.jpg
+    bio: M.Tech.,
 
 lokesh:
     display_name: "Lokesh Krishna"
@@ -123,7 +130,7 @@ naman:
 
 
 
-Dhaivat:
+dhaivat:
     display_name: "Dhaivat Dholakiya"
     webpage: "https://sites.google.com/view/dhaivatdh/home"
     #github: jared711
@@ -141,7 +148,7 @@ abhik:
 
 
 
-Shounak:
+shounak:
     display_name: "Shounak Bhattacharya"
     webpage: "https://www.linkedin.com/in/shounakbh/"
     #github: Derollez
@@ -149,7 +156,7 @@ Shounak:
     #image: /img/people/remy.jpg
     bio: Research Engineer, NUS
 
-Abhimanyu:
+abhimanyu:
     display_name: "Abhimanyu"
     #webpage: "https://www.linkedin.com/in/shounakbh/"
     #github: Derollez
@@ -157,7 +164,7 @@ Abhimanyu:
     #image: /img/people/remy.jpg
     bio: Research Assistant, CMU
 
-Ajay:
+ajay:
     display_name: "Ajay Gunalan"
     webpage: "https://ajaygunalan.github.io/"
     #github: Derollez

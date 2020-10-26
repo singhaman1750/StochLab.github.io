@@ -42,3 +42,17 @@ the natural frequency to more realistic values
 <img src="/img/spine2.jpg" alt="drawing" width="600"/>
 
 [![Active spine](http://i3.ytimg.com/vi/INp4aa-8z2E/hqdefault.jpg)](https://www.youtube.com/watch?v=INp4aa-8z2E&ab_channel=StochIISc )
+
+<br/>
+## Citation ##
+```
+        @inproceedings{bhattacharya2019learning,
+          title={Learning active spine behaviors for dynamic and efficient locomotion in quadruped robots},
+          author={Bhattacharya, Shounak and Singla, Abhik and Dholakiya, Dhaivat and Bhatnagar, Shalabh and Amrutur, Bharadwaj and Ghosal, Ashitava and Kolathaya, Shishir and others},
+          booktitle={2019 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)},
+          pages={1--6},
+          year={2019},
+          organization={IEEE}
+        }
+```
+<br/>

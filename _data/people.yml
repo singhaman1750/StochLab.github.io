@@ -104,15 +104,15 @@ tejas:
     display_name: "Tejas Rane"
     #webpage: "https://www.linkedin.com/in/lauraleeane/"
     role: fellow
-    #image: /img/people/pramod.jpg
+    image: /img/people/tejas.jpg
     bio: B.E. BITS, Pilani, Goa
 
 avinash:
-    display_name: "Avinash"
+    display_name: "Avinash Bhashkar "
     #webpage: "https://www.linkedin.com/in/lauraleeane/"
     role: fellow
-    #image: /img/people/pramod.jpg
-    bio: M.Tech.,
+    image: /img/people/avinash.jpg
+    bio: M.Tech., Centre for advanced studies, Lucknow
 
 lokesh:
     display_name: "Lokesh Krishna"

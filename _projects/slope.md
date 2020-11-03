@@ -61,9 +61,23 @@ This methodology is not only computationally light-weight, but also uses minimal
 <img src="/img/control_arch.jpg" alt="drawing" width="700"/>
 </div>
 <br>
-<br>
 ## Video
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCDVh5zWr7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdQn1e3rI7o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
+
+<br/>
+## Citation ##
+```
+        @misc{paigwar2020robust,
+              title={Robust Quadrupedal Locomotion on Sloped Terrains: A Linear Policy Approach}, 
+              author={Kartik Paigwar and Lokesh Krishna and Sashank Tirumala and Naman Khetan and Aditya Sagi and Ashish Joglekar and Shalabh Bhatnagar and Ashitava Ghosal and Bharadwaj Amrutur and Shishir Kolathaya},
+              year={2020},
+              eprint={2010.16342},
+              archivePrefix={arXiv},
+              primaryClass={cs.RO}
+        }
+```
 <br>
+<br/>
+

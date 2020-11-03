@@ -44,7 +44,6 @@
   date: 2020-07-28
   pub-type: conference
   publisher: "IEEE International Conference on Robot & Human Interactive Communication (RO-MAN)"
-  status: Accepted
   venue: Naples, Italy
   pdf: Learning Stable.pdf
   projects: [ Augmented Random Search ]
@@ -54,9 +53,19 @@
   authors: [Tirumala, Sashank and Sagi, Aditya and Paigwar, Kartik and Joglekar, Ashish and Bhatnagar, Shalabh and Ghosal, Ashitava and Amrutur, Bharadwaj and Kolathaya, Shishir]
   date: 2019-12-30
   pub-type: preprint
-  publisher: preprint
+  publisher: arXiv
   pdf: Gait Library.pdf
   projects: [ Augmented Random Search ]
+
+- title: Robust Quadrupedal Locomotion on Sloped Terrains - A Linear Policy Approach
+  authors: [Kartik Paigwar, Lokesh Krishna, Sashank Tirumala, Naman Khetan, Aditya Sagi, Ashish Joglekar, Shalabh Bhatnagar, Ashitava Ghosal, Bharadwaj Amrutur, Shishir Kolathaya]
+  date: 2020-11-02
+  pub-type: conference
+  publisher: "4th Conference on Robot Learning (CoRL 2020), Cambridge MA, USA."
+  pdf: CORL_2020.pdf
+  projects: [ slope ]
+
+
 
 
 

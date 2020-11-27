@@ -39,7 +39,7 @@ the natural frequency to more realistic values
  
 
 
-<img src="/img/spine2.jpg" alt="drawing" width="600"/>
+<img src="{{site.base}}/img/spine2.jpg" alt="drawing" width="600"/>
 
 [![Active spine](http://i3.ytimg.com/vi/INp4aa-8z2E/hqdefault.jpg)](https://www.youtube.com/watch?v=INp4aa-8z2E&ab_channel=StochIISc )
 

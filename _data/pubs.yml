@@ -1,5 +1,5 @@
 - title: "Design, development and experimental realization of a quadrupedal research platform :Stoch"
-  authors: [Dholakiya, Dhaivat and Bhattacharya, Shounak and Gunalan, Ajay and Singla, Abhik and Bhatnagar, Shalabh and Amrutur, Bharadwaj and Ghosal, Ashitava and Kolathaya, Shishir]
+  authors: [Dhaivat Dholakiya,  Shounak Bhattacharya,  Ajay Gunalan,  Abhik Singla,  Shalabh Bhatnagar,  Bharadwaj Amrutur,  Ashitava Ghosal,  Shishir Kolathaya]
   date: 2019-08-09
   pub-type: conference
   publisher: "IEEE ICCAR 2019"
@@ -8,7 +8,7 @@
   projects: [stochdesign]
 
 - title: "Realizing learned quadruped locomotion behaviors through kinematic motion primitives"
-  authors: [Singla, Abhik and Bhattacharya, Shounak and Dholakiya, Dhaivat and Bhatnagar, Shalabh and Ghosal, Ashitava and Amrutur, Bharadwaj and Kolathaya, Shishir]
+  authors: [ Abhik Singla,  Shounak Bhattacharya,   Dhaivat Dholakiya,  Shalabh Bhatnagar,  Ashitava Ghosal,  Bharadwaj Amrutur,  Shishir Kolathaya]
   date: 2019-05-28
   pub-type: conference
   publisher: ICRA 2019
@@ -19,7 +19,7 @@
 
 
 - title: "Trajectory based deep policy search for quadrupedal walking"
-  authors: [Kolathaya, Shishir and Joglekar, Ashish and Shetty, Suhan and Dholakiya, Dhaivat and Sagi, Aditya and Bhattacharya, Shounak and Singla, Abhik and Bhatnagar, Shalabh and Ghosal, Ashitava and Amrutur, Bharadwaj and others]
+  authors: [Shishir Kolathaya, Ashish Joglekar,  Suhan Shetty,  Dhaivat Dholakiya,  Aditya Sagi,  Shounak Bhattacharya,  Abhik Singla,  Shalabh Bhatnagar,  Ashitava Ghosal,  Bharadwaj Amrutur]
   date: 2019-10-13
   pub-type: conference
   publisher: "IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)"
@@ -29,7 +29,7 @@
 
 
 - title: "Learning active spine behaviors for dynamic and efficient locomotion in quadruped robots"
-  authors: [Bhattacharya, Shounak and Singla, Abhik and Dholakiya, Dhaivat and Bhatnagar, Shalabh and Amrutur, Bharadwaj and Ghosal, Ashitava and Kolathaya, Shishir and others]
+  authors: [Shounak Bhattacharya,  Abhik Singla,  Dhaivat Dholakiya,  Shalabh Bhatnagar,  Bharadwaj Amrutur,  Ashitava Ghosal,  Shishir Kolathaya]
   date: 2019-10-14
   pub-type: conference
   publisher: "IEEE International Conference on Robot & Human Interactive Communication (RO-MAN)"
@@ -40,7 +40,7 @@
 
 
 - title: Learning Stable Manoeuvres in Quadruped Robots from Expert Demonstrations
-  authors: [Tirumala, Sashank and Gubbi, Sagar and Paigwar, Kartik and Sagi, Aditya and Joglekar, Ashish and Bhatnagar, Shalabh and Ghosal, Ashitava and Amrutur, Bharadwaj and Kolathaya, Shishir]
+  authors: [Sashank Tirumala,  Sagar Gubbi, Kartik Paigwar, Aditya Sagi, Ashish Joglekar, Shalabh Bhatnagar, Ashitava Ghosal, Bharadwaj Amrutur, Shishir Kolathaya]
   date: 2020-07-28
   pub-type: conference
   publisher: "IEEE International Conference on Robot & Human Interactive Communication (RO-MAN)"
@@ -50,7 +50,7 @@
 
 
 - title: Gait Library Synthesis for Quadruped Robots via Augmented Random Search
-  authors: [Tirumala, Sashank and Sagi, Aditya and Paigwar, Kartik and Joglekar, Ashish and Bhatnagar, Shalabh and Ghosal, Ashitava and Amrutur, Bharadwaj and Kolathaya, Shishir]
+  authors: [Sashank Tirumala, Aditya Sagi, Kartik Paigwar, Ashish Joglekar,  Shalabh Bhatnagar, Ashitava Ghosal, Bharadwaj Amrutur, Shishir  Kolathaya]
   date: 2019-12-30
   pub-type: preprint
   publisher: arXiv
@@ -65,9 +65,21 @@
   pdf: CORL_2020.pdf
   projects: [ slope ]
 
+- title: Local Stability of PD Controlled Bipedal Walking Robots
+  authors: [Shishir Kolathaya]
+  date: 2020-04-01
+  pub-type: journal
+  publisher: "Automatica"
+  pdf: kolathayapdbiped.pdf
+  projects: [ theory ]
 
-
-
+- title: PD Tracking for a Class of Underactuated Robotic Systems With Kinetic Symmetry
+  authors: [Shishir Kolathaya]
+  date: 2021-07-01
+  pub-type: journal
+  publisher: "IEEE Control Systems Letters, Conference on Decision and Control 2020"
+  pdf: kolathaya_pd_tracking.pdf
+  projects: [ theory ]
 
 
 

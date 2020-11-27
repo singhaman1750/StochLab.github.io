@@ -1,5 +1,5 @@
 ---
-title: Robust Quadrupedal Locomotion on Slopped Terrain
+title: Robust Quadrupedal Locomotion on Sloped Terrain
 
 description: |
   A Linear Policy Approach 
@@ -30,35 +30,35 @@ This methodology is not only computationally light-weight, but also uses minimal
 <div style="padding-left:50px" class="row">
 <div class="column">
         <figure>  
-        <img style="padding:5px" src="/img/stoch2uphill.gif" alt="uphill" width="250" />
+        <img style="padding:5px" src="{{site.base}}/img/stoch2uphill.gif" alt="uphill" width="250" />
         <figcaption style="text-align:center"> Uphill </figcaption>
         </figure>
  </div>
   
  <div class="column">
         <figure>
-        <img style="padding:5px" src="/img/stoch2sidehill.gif" alt="sidehill" width="250"/>
+        <img style="padding:5px" src="{{site.base}}/img/stoch2sidehill.gif" alt="sidehill" width="250"/>
         <figcaption style="text-align:center"> Sidehill </figcaption>
         </figure>
   </div>
   
    <div class="column">
         <figure>
-        <img style="padding:5px" src="/img/stoch2stair1.gif" alt="staircse" width="250" />
+        <img style="padding:5px" src="{{site.base}}/img/stoch2stair1.gif" alt="staircse" width="250" />
         <figcaption style="text-align:center"> Staircase </figcaption>
         </figure>
     </div>
     
   <div class="column">
         <figure>
-        <img style="padding:5px" src="/img/stoch2dist.gif" alt="disturbance" width="250" height="190"/>
+        <img style="padding:5px" src="{{site.base}}/img/stoch2dist.gif" alt="disturbance" width="250" height="190"/>
         <figcaption style="text-align:center"> Disturbance Rejection </figcaption>
         </figure>
     </div>
 </div>
 
 <div style="text-align:center">
-<img src="/img/control_arch.jpg" alt="drawing" width="700"/>
+<img src="{{site.base}}/img/control_arch.jpg" alt="drawing" width="700"/>
 </div>
 <br>
 ## Video

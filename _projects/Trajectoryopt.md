@@ -41,7 +41,7 @@ then successfully play them in a custom built quadruped robot,
 Stoch 2, thereby validating our approach. 
 
 
-<img src="/img/tiles.jpg" alt="drawing" width="600"/>
+<img src="{{site.base}}/img/tiles.jpg" alt="drawing" width="600"/>
 
 [![Trajectory based Deep Policy Search Video](http://i3.ytimg.com/vi/AxMeGESpuvc/hqdefault.jpg)](https://www.youtube.com/watch?v=AxMeGESpuvc&ab_channel=StochIISc "ICCAR")
 

@@ -1,5 +1,7 @@
 name: Stoch Lab
-url: https://stochlab.github.io
+url: "https://cps.iisc.ac.in/research/stoch/"
+baseurl: "/research/stoch"
+base: "/research/stoch"
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -10,7 +12,7 @@ exclude: [bibble, README.md, Makefile, screenshot.png]
 highlighter: rouge
 
 # The path structure for blog posts.
-permalink: /blog/:year/:month/:day/:title.html
+permalink: /research/stoch/blog/:year/:month/:day/:title.html
 
 # Sections on the "people" page.
 roles:

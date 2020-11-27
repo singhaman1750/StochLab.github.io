@@ -9,7 +9,7 @@ people:
   - ajay
   - abhik
   - shalabh
-  - bharadwaj 
+  - bharadwaj
   - ashitava
   - shishir
 
@@ -59,9 +59,9 @@ also avoids multiple training iterations by generating a set of
 derived behaviors from a single learned gait
 
 
-<img src="/img/stoch11.jpg" alt="drawing" width="600"/>
+<img src="{{site.base}}/img/stoch11.jpg" alt="drawing" width="600"/>
 
-<img src="/img/stoch12.jpg" alt="drawing" width="600"/>
+<img src="{{site.base}}/img/stoch12.jpg" alt="drawing" width="600"/>
 
 [![ICCAR](http://i3.ytimg.com/vi/EXb4tONlJe0/hqdefault.jpg)](https://www.youtube.com/watch?v=EXb4tONlJe0&ab_channel=DhaivatDholakiya "ICCAR")
 [![ICRA](http://i3.ytimg.com/vi/Wxx9pwwTIL4/hqdefault.jpg)](https://www.youtube.com/watch?v=Wxx9pwwTIL4&t=7s&ab_channel=Stoch_IISc "ICRA")

@@ -1,7 +1,7 @@
 name: Stoch Lab
 url: "https://cps.iisc.ac.in/research/stoch/"
 baseurl: "/research/stoch"
-base: "/research/stoch"
+base: ""
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 

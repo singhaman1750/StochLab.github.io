@@ -1,8 +1,8 @@
 ---
-title: Robust Quadrupedal Locomotion on Sloped Terrain
+title: Robust Quadrupedal Locomotion on Sloped Terrains
 
 description: |
-  A Linear Policy Approach 
+  This paper presents a linear policy approach to achieve walking on sloped terrains
 people:
   - kartik
   - lokesh

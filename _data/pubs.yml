@@ -65,6 +65,17 @@
   pdf: CORL_2020.pdf
   projects: [ slope ]
 
+
+- title: Learning  Linear  Policies  for  Robust  Bipedal  Locomotionon  Terrains  with  Varying  Slopes
+  authors: [Lokesh Krishna, Utkarsh A. Mishra, Guillermo A. Castillo, Ayonga Hereid, Shishir Kolathaya]
+  date: 2021-09-27
+  pub-type: conference
+  publisher: "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021), Prague, Czech Republic."
+  pdf: IROS_2021.pdf
+  projects: [ LinearPolicyBiped ]
+
+
+
 - title: Local Stability of PD Controlled Bipedal Walking Robots
   authors: [Shishir Kolathaya]
   date: 2020-04-01

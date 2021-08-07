@@ -1,8 +1,8 @@
 ---
-title: Learning Controllers for Robust Blind Bipedal Locomotion on Challenging Terrains
+title: Learning Controllers for Robust Bipedal Locomotion on Challenging Terrains
 
 description: |
-  This paper presents a linear policy approach to achieve blind bipedal walking on challenging terrains.
+  A framework for sythesizing controllers to achieve blind bipedal walking on challenging terrains thorugh learnt linear policies.
 people:
   - lokesh
   - utkarsh
@@ -16,8 +16,7 @@ last-updated: 2021-08-07
 <br>
 #### Abstract
 In this paper, with a view toward deployment of  light-weight control frameworks for bipedal walking robots, we realize end-foot trajectories that are shaped by a single linear feedback policy. We learn this policy via a model-free and a gradient free learning algorithm, Augmented Random Search (ARS), in the two robot platforms Rabbit and Digit. Our contributions are two-fold: a) By using torso and support plane orientation as inputs, we achieve robust walking on slopes of upto 20 degree in simulation. b) We demonstrate additional behaviors like walking backwards, stepping-in-place, and recovery from external pushes of upto 120 N. The end-result is a robust and a fast feedback control law for bipedal walking on terrains with varying slopes. Towards the end, we also provide preliminary results of hardware transfer to Digit.
- 
-
+<br>
 <div style="padding-left:50px" class="row">
 <div class="column">
         <figure>  
@@ -77,7 +76,7 @@ In this paper, with a view toward deployment of  light-weight control frameworks
 
 </div>
 <br>
-## Controller Framework
+## Control Framework
 <div style="text-align:center">
 <img src="{{site.base}}/img/IROS_21_BipedControlArchv2.png" alt="drawing" height="253" width="800"/>
 </div>

@@ -1,3 +1,74 @@
+yogita:
+    display_name: "Yogita Choudhary"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: intern
+    #image: /img/people/pramod.jpg
+    bio: IIT BHU
+
+somnath:
+    display_name: "Somnath Sendhil Kumar"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: intern
+    #image: /img/people/pramod.jpg
+    bio: IIT BHU
+
+agandhi:
+    display_name: "Abhishek Gandhi"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: intern
+    #image: /img/people/pramod.jpg
+    bio: IIT Kharagpur
+
+
+prathamesh:
+    display_name: "Prathamesh Saraf"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: intern
+    #image: /img/people/pramod.jpg
+    bio: BIT Hyderabad
+
+utkarsh:
+    display_name: "Utkarsh Mishra"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: intern
+    #image: /img/people/pramod.jpg
+    bio: IIT Roorkee
+
+himanshulodha:
+    display_name: "Himanshu Lodha"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: fellow
+    #image: /img/people/pramod.jpg
+    bio: VIIT, Pune
+
+sayaknandi:
+    display_name: "Sayak Nandi"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: intern
+    #image: /img/people/pramod.jpg
+    bio: NITK
+
+abhishekranjan:
+    display_name: "Abhishek Ranjan"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: masters
+    #image: /img/people/pramod.jpg
+    bio: IISc
+
+chandravaran:
+    display_name: "Chandravaran Kunjeti"
+    webpage: "https://www.linkedin.com/in/chandravaran-kunjeti/"
+    role: intern
+    #image: /img/people/pramod.jpg
+    bio: NITK
+
+ashirwat:
+    display_name: "Aditya Shirwatkar"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: intern
+    #image: /img/people/pramod.jpg
+    bio: VNIT
+
 shishir:
     display_name: "Shishir Kolathaya"
     webpage: "https://shishirny.github.io/"
@@ -64,7 +135,7 @@ kartik:
     display_name: "Kartik Paigwar"
     webpage: "https://kartikpaigwar.github.io"
     github: kartikpaigwar
-    role: staff
+    role: alum
     image: /img/people/Kartik.png
     bio: Project Associate
 
@@ -93,10 +164,17 @@ soumya:
     #image: /img/people/laura.jpg
     bio: CSA, IISc
 
+amansingh:
+    display_name: "Aman Singh"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: staff
+    #image: /img/people/pramod.jpg
+    bio: IIT, Roorkee
+
 sashank:
     display_name: "Sashank Tirumala"
     #webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: fellow
+    role: alum
     #image: /img/people/pramod.jpg
     bio: Dual-Degree, IIT, Madras
 
@@ -110,13 +188,13 @@ tejas:
 avinash:
     display_name: "Avinash Bhashkar "
     #webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: fellow
+    role: alum
     image: /img/people/avinash.jpg
     bio: M.Tech., Centre for advanced studies, Lucknow
 
 lokesh:
     display_name: "Lokesh Krishna"
-    webpage: "https://www.linkedin.com/in/lokesh-krishna-92911719b/"
+    webpage: "https://lok-i.github.io/website/"
     role: intern
     image: /img/people/lokesh.jpeg
     bio: B.Tech., IIT BHU
@@ -124,7 +202,7 @@ lokesh:
 naman:
     display_name: "Naman Khetan"
     webpage: "https://www.linkedin.com/in/naman-khetan-046415181/"
-    role: intern
+    role: alum
     #image: /img/people/pramod.jpg
     bio: Dual-Degree, IIT (ISM) Dhanbad
 

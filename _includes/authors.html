@@ -2,7 +2,7 @@
 
 
 {% for author in authors %}
-    {% if forloop.last %}
+    {% if forloop.last and authors.size > 1 %}
         and
     {% endif %}
 

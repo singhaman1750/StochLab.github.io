@@ -75,6 +75,15 @@
   projects: [ LinearPolicyBiped ]
 
 
+- title: Linear Policies are Sufficient to Realize Robust Bipedal Walking on Challenging Terrains
+  authors: [Lokesh Krishna*, Guillermo A. Castillo*, Utkarsh A. Mishra, Ayonga Hereid, Shishir Kolathaya]
+  date: 2021-10-05
+  pub-type: preprint
+  publisher: arXiv
+  pdf: LinearPolicySuff.pdf
+  projects: [ LinearPolicyBiped ]
+
+
 
 - title: Local Stability of PD Controlled Bipedal Walking Robots
   authors: [Shishir Kolathaya]

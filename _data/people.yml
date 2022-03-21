@@ -1,3 +1,11 @@
+aditya:
+    display_name: "Aditya Sagi"
+    #webpage: "https://thowell.github.io"
+    github: adityasagi
+    role:  staff
+    image: /img/people/aditya.jpeg
+    bio: Technical Associate
+    
 raghav:
     display_name: "Raghav Soni"
     webpage: "https://www.linkedin.com/in/raghav-soni-0932b71b7/"
@@ -101,13 +109,7 @@ ashitava:
     bio:  Professor
 
 
-aditya:
-    display_name: "Aditya Sagi"
-    #webpage: "https://thowell.github.io"
-    github: adityasagi
-    role:  staff
-    image: /img/people/aditya.jpeg
-    bio: Technical Associate
+
 
 pramod:
     display_name: "Pramod Pal"

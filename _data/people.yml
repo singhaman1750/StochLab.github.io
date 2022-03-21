@@ -5,6 +5,13 @@ raghav:
     image: /img/people/raghav.jpg
     bio: IIT BHU
 
+ketan:
+    display_name: "Ketan Nehete"
+    #webpage: "https://www.linkedin.com/in/raghav-soni-0932b71b7/"
+    role: intern
+    #image: /img/people/raghav.jpg
+    bio: VIT
+    
 manan:
     display_name: "Manan Tayal"
     webpage: "https://tayalmanan28.github.io/"
@@ -12,10 +19,19 @@ manan:
     github: tayalmanan28
     image: /img/people/manan.jpg
     bio: RBCCPS, IISc
+    
+vamshi:
+    display_name: "Vamshi Kumar Kurva"
+    webpage: "https://vamshikumarkurva.github.io/"
+    role: phd
+    github: vamshikumarkurva
+    #image: /img/people/manan.jpg
+    bio: RBCCPS, IISc
+    
 yogita:
     display_name: "Yogita Choudhary"
     #webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: intern
+    role: alum
     #image: /img/people/pramod.jpg
     bio: IIT BHU
 
@@ -25,21 +41,6 @@ somnath:
     role: intern
     #image: /img/people/pramod.jpg
     bio: IIT BHU
-
-agandhi:
-    display_name: "Abhishek Gandhi"
-    #webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: intern
-    #image: /img/people/pramod.jpg
-    bio: IIT Kharagpur
-
-
-prathamesh:
-    display_name: "Prathamesh Saraf"
-    #webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: intern
-    #image: /img/people/pramod.jpg
-    bio: BIT Hyderabad
 
 utkarsh:
     display_name: "Utkarsh Mishra"
@@ -51,16 +52,9 @@ utkarsh:
 himanshulodha:
     display_name: "Himanshu Lodha"
     #webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: fellow
+    role: staff
     #image: /img/people/pramod.jpg
     bio: VIIT, Pune
-
-sayaknandi:
-    display_name: "Sayak Nandi"
-    #webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: intern
-    #image: /img/people/pramod.jpg
-    bio: NITK
 
 abhishekranjan:
     display_name: "Abhishek Ranjan"
@@ -68,13 +62,6 @@ abhishekranjan:
     role: masters
     #image: /img/people/pramod.jpg
     bio: IISc
-
-chandravaran:
-    display_name: "Chandravaran Kunjeti"
-    webpage: "https://www.linkedin.com/in/chandravaran-kunjeti/"
-    role: intern
-    #image: /img/people/pramod.jpg
-    bio: NITK
 
 ashirwat:
     display_name: "Aditya Shirwatkar"
@@ -84,7 +71,7 @@ ashirwat:
     bio: VNIT
 
 shishir:
-    display_name: "Shishir Kolathaya"
+    display_name: "Shishir Kolathaya (HEAD)"
     webpage: "https://shishirny.github.io/"
     github: shishirny
     role: faculty
@@ -114,14 +101,6 @@ ashitava:
     bio:  Professor
 
 
-ashish:
-    display_name: "Ashish Joglekar"
-    #webpage: "https://thowell.github.io"
-    #github: adityasagi
-    role:  staff
-    image: /img/people/ashish.jpg
-    bio: Researcher
-
 aditya:
     display_name: "Aditya Sagi"
     #webpage: "https://thowell.github.io"
@@ -129,39 +108,6 @@ aditya:
     role:  staff
     image: /img/people/aditya.jpeg
     bio: Technical Associate
-alok:
-    display_name: "Alok Rawat"
-    #webpage: "https://simon-lc.github.io/"
-    #github: simon-lc
-    role: staff
-    image: /img/people/alok.jpg
-    bio: Technical Associate
-
-varun:
-    display_name: "Varun"
-    #webpage: "https://www.ei.tum.de/en/itr/bruedigam/"
-    #github: janbruedigam
-    role: staff
-    image: /img/people/varun.jpeg
-    bio: Technical Associate
-
-kartik:
-    display_name: "Kartik Paigwar"
-    webpage: "https://kartikpaigwar.github.io"
-    github: kartikpaigwar
-    role: alum
-    image: /img/people/Kartik.png
-    bio: Project Associate
-
-
-sagar:
-    display_name: "Sagar Gubi "
-    webpage: "http://www.sagargv.com/"
-    github: s-gv
-    role: alum
-    image: /img/people/sagar.jpg
-    bio: PhD, ECE, IISc
-
 
 pramod:
     display_name: "Pramod Pal"
@@ -174,12 +120,19 @@ pramod:
 soumya:
     display_name: "Soumya Rani"
     #webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: masters
+    role: alum
     #image: /img/people/laura.jpg
     bio: CSA, IISc
 
 amansingh:
     display_name: "Aman Singh"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: staff
+    #image: /img/people/pramod.jpg
+    bio: IIT, Roorkee
+
+bhavya:
+    display_name: "Bhavya Giri Goswami"
     #webpage: "https://www.linkedin.com/in/lauraleeane/"
     role: staff
     #image: /img/people/pramod.jpg
@@ -195,7 +148,7 @@ sashank:
 tejas:
     display_name: "Tejas Rane"
     #webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: fellow
+    role: alum
     image: /img/people/tejas.jpg
     bio: B.E. BITS, Pilani, Goa
 
@@ -212,14 +165,6 @@ lokesh:
     role: intern
     image: /img/people/lokesh.jpeg
     bio: B.Tech., IIT BHU
-
-naman:
-    display_name: "Naman Khetan"
-    webpage: "https://www.linkedin.com/in/naman-khetan-046415181/"
-    role: alum
-    #image: /img/people/pramod.jpg
-    bio: Dual-Degree, IIT (ISM) Dhanbad
-
 
 
 dhaivat:

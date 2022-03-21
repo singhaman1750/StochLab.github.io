@@ -1,3 +1,17 @@
+raghav:
+    display_name: "Raghav Soni"
+    webpage: "https://www.linkedin.com/in/raghav-soni-0932b71b7/"
+    role: intern
+    image: /img/people/raghav.jpg
+    bio: IIT BHU
+
+manan:
+    display_name: "Manan Tayal"
+    webpage: "https://tayalmanan28.github.io/"
+    role: phd
+    github: tayalmanan28
+    image: /img/people/manan.jpg
+    bio: RBCCPS, IISc
 yogita:
     display_name: "Yogita Choudhary"
     #webpage: "https://www.linkedin.com/in/lauraleeane/"

@@ -4,7 +4,7 @@ aditya:
     github: adityasagi
     role:  staff
     image: /img/people/aditya.jpeg
-    bio: Technical Associate
+    bio: Technical Consultant
     
 raghav:
     display_name: "Raghav Soni"
@@ -16,7 +16,7 @@ raghav:
 ketan:
     display_name: "Ketan Nehete"
     #webpage: "https://www.linkedin.com/in/raghav-soni-0932b71b7/"
-    role: intern
+    role: fellow
     #image: /img/people/raghav.jpg
     bio: VIT
     
@@ -34,7 +34,7 @@ vamshi:
     role: phd
     github: vamshikumarkurva
     #image: /img/people/manan.jpg
-    bio: RBCCPS, IISc
+    bio: CSA, IISc
     
 yogita:
     display_name: "Yogita Choudhary"
@@ -62,14 +62,63 @@ himanshulodha:
     #webpage: "https://www.linkedin.com/in/lauraleeane/"
     role: staff
     #image: /img/people/pramod.jpg
-    bio: VIIT, Pune
+    bio: Project Assistant
+
+phani:
+    display_name: "Phani Madhusudhan Thontepu"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: masters
+    #image: /img/people/pramod.jpg
+    bio: AI, IISc
+
+sangeet:
+    display_name: "Sangeet M"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: masters
+    #image: /img/people/pramod.jpg
+    bio: AI, IISc
+
+krishnrao:
+    display_name: "Sarang Kadam Krishnrao"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: masters
+    #image: /img/people/pramod.jpg
+    bio: RAS, IISc
+
+ankitpandita:
+    display_name: "Ankit Pandita"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: masters
+    #image: /img/people/pramod.jpg
+    bio: AI, IISc
+
+govindu:
+    display_name: "Palaparthi Govindu"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: masters
+    #image: /img/people/pramod.jpg
+    bio: CSA, IISc
+
+devarajuvinoda:
+    display_name: "Devaraju Vinoda"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: masters
+    #image: /img/people/pramod.jpg
+    bio: CSA, IISc
+
+namansaxena:
+    display_name: "Naman Saxena"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: masters
+    #image: /img/people/pramod.jpg
+    bio: CSA, IISc
 
 abhishekranjan:
     display_name: "Abhishek Ranjan"
     #webpage: "https://www.linkedin.com/in/lauraleeane/"
     role: masters
     #image: /img/people/pramod.jpg
-    bio: IISc
+    bio: CSA, IISc
 
 ashirwat:
     display_name: "Aditya Shirwatkar"
@@ -145,7 +194,7 @@ sashank:
     #webpage: "https://www.linkedin.com/in/lauraleeane/"
     role: alum
     #image: /img/people/pramod.jpg
-    bio: Dual-Degree, IIT, Madras
+    bio: Grad Student, CMU
 
 tejas:
     display_name: "Tejas Rane"
@@ -185,8 +234,6 @@ abhik:
     #image: /img/people/remy.jpg
     bio: Grad Student, UMass
 
-
-
 shounak:
     display_name: "Shounak Bhattacharya"
     webpage: "https://www.linkedin.com/in/shounakbh/"
@@ -201,7 +248,7 @@ abhimanyu:
     #github: Derollez
     role: alum
     #image: /img/people/remy.jpg
-    bio: Research Assistant, CMU
+    bio: Grad Student, CMU
 
 ajay:
     display_name: "Ajay Gunalan"

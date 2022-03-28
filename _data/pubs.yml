@@ -5,7 +5,7 @@
   publisher: "IEEE ICCAR 2019"
   pdf: Design.pdf
   venue: Beijing, China
-  projects: [stochdesign]
+  projects: [quadruped]
 
 - title: "Realizing learned quadruped locomotion behaviors through kinematic motion primitives"
   authors: [ Abhik Singla,  Shounak Bhattacharya,   Dhaivat Dholakiya,  Shalabh Bhatnagar,  Ashitava Ghosal,  Bharadwaj Amrutur,  Shishir Kolathaya]
@@ -14,7 +14,7 @@
   publisher: ICRA 2019
   pdf: Realizing learned.pdf
   venue: Montreal, Canada
-  projects: [ stochdesign ]
+  projects: [ quadruped ]
 
 
 
@@ -22,10 +22,10 @@
   authors: [Shishir Kolathaya, Ashish Joglekar,  Suhan Shetty,  Dhaivat Dholakiya,  Aditya Sagi,  Shounak Bhattacharya,  Abhik Singla,  Shalabh Bhatnagar,  Ashitava Ghosal,  Bharadwaj Amrutur]
   date: 2019-10-13
   pub-type: conference
-  publisher: "IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)"
+  publisher: "IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) 2019"
   pdf: "Trajectory based.pdf"
   venue: New Delhi, India
-  projects: [ Trajectoryopt ]
+  projects: [ quadruped ]
 
 
 - title: "Learning active spine behaviors for dynamic and efficient locomotion in quadruped robots"
@@ -35,7 +35,7 @@
   publisher: "IEEE International Conference on Robot & Human Interactive Communication (RO-MAN)"
   pdf: Learning active.pdf
   venue: New Delhi, India
-  projects: [ spine ]
+  projects: [ quadruped ]
 
 
 
@@ -43,10 +43,10 @@
   authors: [Sashank Tirumala,  Sagar Gubbi, Kartik Paigwar, Aditya Sagi, Ashish Joglekar, Shalabh Bhatnagar, Ashitava Ghosal, Bharadwaj Amrutur, Shishir Kolathaya]
   date: 2020-07-28
   pub-type: conference
-  publisher: "IEEE International Conference on Robot & Human Interactive Communication (RO-MAN)"
+  publisher: "IEEE International Conference on Robot & Human Interactive Communication (RO-MAN) 2020"
   venue: Naples, Italy
   pdf: Learning Stable.pdf
-  projects: [ Augmented Random Search ]
+  projects: [ quadruped ]
 
 
 - title: Gait Library Synthesis for Quadruped Robots via Augmented Random Search
@@ -55,7 +55,7 @@
   pub-type: preprint
   publisher: arXiv
   pdf: Gait Library.pdf
-  projects: [ Augmented Random Search ]
+  projects: [ quadruped ]
 
 - title: Robust Quadrupedal Locomotion on Sloped Terrains - A Linear Policy Approach
   authors: [Kartik Paigwar, Lokesh Krishna, Sashank Tirumala, Naman Khetan, Aditya Sagi, Ashish Joglekar, Shalabh Bhatnagar, Ashitava Ghosal, Bharadwaj Amrutur, Shishir Kolathaya]
@@ -63,26 +63,34 @@
   pub-type: conference
   publisher: "4th Conference on Robot Learning (CoRL 2020), Cambridge MA, USA."
   pdf: CORL_2020.pdf
-  projects: [ slope ]
+  projects: [ quadruped ]
 
 
 - title: Learning  Linear  Policies  for  Robust  Bipedal  Locomotionon  Terrains  with  Varying  Slopes
   authors: [Lokesh Krishna, Utkarsh A. Mishra, Guillermo A. Castillo, Ayonga Hereid, Shishir Kolathaya]
   date: 2021-09-27
   pub-type: conference
-  publisher: "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021), Prague, Czech Republic."
+  publisher: IROS 2021
   pdf: IROS_2021.pdf
-  projects: [ LinearPolicyBiped ]
+  venue: Prague, Czech Republic
+  projects: [ biped ]
 
 
 - title: Linear Policies are Sufficient to Realize Robust Bipedal Walking on Challenging Terrains
   authors: [Lokesh Krishna*, Guillermo A. Castillo*, Utkarsh A. Mishra, Ayonga Hereid, Shishir Kolathaya]
-  date: 2021-10-05
-  pub-type: preprint
-  publisher: arXiv
+  date: 2022-01-01
+  pub-type: journal
+  publisher: RA-Letters & ICRA 2022
   pdf: LinearPolicySuff.pdf
-  projects: [ LinearPolicyBiped ]
+  projects: [ biped ]
 
+- title: Dynamic Mirror Descent based Model Predictive Control for Accelerated Robot Learning
+  authors: [Utkarsh A. Mishra, Soumya R. Samineni, Prakhar Goel, Chandravaran Kunjeti, Himanshu Lodha, Aman Singh, Aditya Sagi, Shalabh Bhatnagar, Shishir Kolathaya]
+  date: 2022-01-01
+  pub-type: conference
+  publisher: ICRA 2022
+  pdf: dmdmpc_icra2022.pdf
+  projects: [ learning ]
 
 
 - title: Local Stability of PD Controlled Bipedal Walking Robots
@@ -97,9 +105,41 @@
   authors: [Shishir Kolathaya]
   date: 2021-07-01
   pub-type: journal
-  publisher: "IEEE Control Systems Letters, Conference on Decision and Control 2020"
+  publisher: "IEEE Control Systems Letters (L-CSS) & Conference on Decision and Control (CDC) 2020"
   pdf: kolathaya_pd_tracking.pdf
   projects: [ theory ]
 
 
+- title: Inverse Kinematics Analysis of Cassie Robot using Radial Basis Function Networks
+  authors: [Mukund Mitra, Suman Raj, Shishir Kolathaya]
+  date: 2021-09-01
+  pub-type: conference
+  publisher: "IEEE International Symposium of Asian Control Association on Intelligent Robotics and Industrial Automation (IRIA) 2021"
+  pdf: inversekin_cassie_iria2021.pdf
+  projects: [ biped ]
 
+
+- title: Motion Planning With Dynamic Obstacles Using Convexified Control Barrier Functions
+  authors: [VP Varun, AP Vinod, S Kolathaya]
+  date: 2021-12-01
+  pub-type: conference
+  publisher: "IEEE Indian Control Conference (ICC) 2021"
+  pdf: convexified_cbf_icc2021.pdf
+  projects: [ theory ]
+
+
+- title: Coupled control Lyapunov functions for interconnected systems, with application to quadrupedal locomotion
+  authors: [Wen-Loong Ma, Noel Csomay-Shanklin, Shishir Kolathaya, Kaveh Akbari Hamed, Aaron D Ames]
+  date: 2021-05-01
+  pub-type: journal
+  publisher: "RA Letters & ICRA 2021"
+  pdf: RAL21_CCS.pdf
+  projects: [ quadruped ]
+
+- title: Safety-Critical Kinematic Control of Robotic Systems
+  authors: [Andrew Singletary, Shishir Kolathaya, and Aaron D. Ames]
+  date: 2021-01-01
+  pub-type: journal
+  publisher: "L-CSS & ACC 2021"
+  pdf: Safety_Critical_Kinematic_Control.pdf
+  projects: [ theory ]

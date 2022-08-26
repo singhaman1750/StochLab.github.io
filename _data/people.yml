@@ -51,10 +51,10 @@ somnath:
     bio: IIT BHU
 
 utkarsh:
-    display_name: "Utkarsh Mishra"
-    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    display_name: "Utkarsh A Mishra"
+    webpage: "https://utkarshmishra04.github.io/research/"
     role: intern
-    #image: /img/people/pramod.jpg
+    image: /img/people/utkarsh.jpg
     bio: IIT Roorkee
 
 himanshulodha:

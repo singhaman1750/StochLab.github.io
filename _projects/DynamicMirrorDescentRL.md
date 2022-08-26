@@ -22,7 +22,7 @@ Fore more references, refer to paper at [arxiv.org/pdf/2112.02999.pdf](https://a
 <br>
 ## Control Framework
 <div style="text-align:center">
-<img src="{{site.base}}/img/DeMoRL/methodology.jpg" alt="drawing" height="300" width="1000"/>
+<img src="{{site.base}}/img/DeMoRL/methodology.jpg" alt="drawing"/>
 </div>
 <br>
 

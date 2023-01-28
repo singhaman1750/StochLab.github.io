@@ -5,13 +5,13 @@ notitle: true
 
 # groups of columns of {roles: list, width: num, image: bool}
 role-tables:
-- - roles: [faculty, collab, postdoc, phd]
+- - roles: [faculty, staff, postdoc]
     width: 4
     image: true
-  - roles: [staff, fellow]
-    width: 8
+  - roles: [phd, masters]
+    width: 4
     image: true
-- - roles: [masters, intern]
+- - roles: [fellow, intern]
     width: 5
     image: false
   - roles: [alum]
@@ -44,6 +44,10 @@ role-tables:
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
+        <img src="{{ site.base }}/img/stoch3.GIF" alt="gaits" style="height:100%; margin-left: auto; margin-right: auto;">
+      </div>
+
+      <div class="item">
         <img src="/img/Stoch2Intro1.gif" alt="Los Angeles" style="height:100%;">
 <!--          <video width="1126" height="440"  autoplay preload="">-->
 <!--  <source src="video/Stoch_Intro1.mp4" type="video/mp4">-->

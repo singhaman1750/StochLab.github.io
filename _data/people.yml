@@ -1,6 +1,6 @@
 aditya:
     display_name: "Aditya Sagi"
-    #webpage: "https://thowell.github.io"
+    webpage: "https://www.linkedin.com/in/aditya-varma-sagi/"
     github: adityasagi
     role:  staff
     image: /img/people/aditya.jpeg
@@ -9,17 +9,64 @@ aditya:
 raghav:
     display_name: "Raghav Soni"
     webpage: "https://www.linkedin.com/in/raghav-soni-0932b71b7/"
-    role: intern
+    role: alum
     image: /img/people/raghav.jpg
     bio: IIT BHU
+
+toshan:
+    display_name: "Toshan Luktuke"
+    # webpage: "https://www.linkedin.com/in/raghav-soni-0932b71b7/"
+    role: intern
+    image: /img/people/raghav.jpg
+    bio: VJTI
 
 ketan:
     display_name: "Ketan Nehete"
     #webpage: "https://www.linkedin.com/in/raghav-soni-0932b71b7/"
+    role: staff
+    #image: /img/people/raghav.jpg
+    bio: Project Assistant
+
+sreehari:
+    display_name: "Sreehari Acharaya"
+    #webpage: "https://www.linkedin.com/in/raghav-soni-0932b71b7/"
+    role: staff
+    #image: /img/people/raghav.jpg
+    bio: Project Assistant
+
+kartikraj:
+    display_name: "Karthik Rajgopal"
+    #webpage: "https://www.linkedin.com/in/raghav-soni-0932b71b7/"
     role: fellow
     #image: /img/people/raghav.jpg
-    bio: VIT
-    
+    bio: BITS Pilani
+
+prakharg:
+    display_name: "Prakhar Goel"
+    webpage: "https://www.linkedin.com/in/prakhar-goel-4616501a5/"
+    role: fellow
+    #image: /img/people/raghav.jpg
+    bio: Manipal Institute of Technology
+
+shashankram:
+    display_name: "Shashank Ramesh"
+    webpage: "https://www.linkedin.com/in/shashank-ramesh-515707145/"
+    role: alum
+    #image: /img/people/raghav.jpg
+    bio: Grad Student, University of Notre Dame
+
+cvk:
+    display_name: "Chandravaran Kunjeti"
+    webpage: "https://www.linkedin.com/in/chandravaran-kunjeti/"
+    role: alum
+    bio: Grad Student, University of Pennsylvania
+
+prathameshsaraf:
+    display_name: "Prathamesh Saraf"
+    webpage: "https://www.linkedin.com/in/prathamesh-saraf/"
+    role: alum
+    bio: Grad Student, UC San Diego 
+
 manan:
     display_name: "Manan Tayal"
     webpage: "https://tayalmanan28.github.io/"
@@ -33,7 +80,7 @@ vamshi:
     webpage: "https://vamshikumarkurva.github.io/"
     role: phd
     github: vamshikumarkurva
-    #image: /img/people/manan.jpg
+    image: /img/people/vamshikumar.png
     bio: CSA, IISc
     
 yogita:
@@ -45,17 +92,24 @@ yogita:
 
 somnath:
     display_name: "Somnath Sendhil Kumar"
-    #webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: intern
+    webpage: "https://www.linkedin.com/in/somnathsenku/"
+    role: alum
     #image: /img/people/pramod.jpg
     bio: IIT BHU
+
+vishweshn:
+    display_name: "Vishwesh N"
+    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: alum
+    #image: /img/people/pramod.jpg
+    bio: IIT Kharagpur
 
 utkarsh:
     display_name: "Utkarsh A Mishra"
     webpage: "https://utkarshmishra04.github.io/research/"
-    role: intern
+    role: alum
     image: /img/people/utkarsh.jpg
-    bio: IIT Roorkee
+    bio: Grad Student, Georgia Tech
 
 himanshulodha:
     display_name: "Himanshu Lodha"
@@ -66,8 +120,8 @@ himanshulodha:
 
 phani:
     display_name: "Phani Madhusudhan Thontepu"
-    #webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: masters
+    webpage: "https://in.linkedin.com/in/phani-madhusudhan-thontepu-4741ab115"
+    role: alum
     #image: /img/people/pramod.jpg
     bio: AI, IISc
 
@@ -78,17 +132,24 @@ sangeet:
     #image: /img/people/pramod.jpg
     bio: AI, IISc
 
+motish:
+    display_name: "GVS Motish"
+    webpage: "https://www.linkedin.com/in/gvs-mothish-536138209/"
+    role: masters
+    #image: /img/people/pramod.jpg
+    bio: RAS, IISc
+
 krishnrao:
     display_name: "Sarang Kadam Krishnrao"
     #webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: masters
+    role: alum
     #image: /img/people/pramod.jpg
     bio: RAS, IISc
 
 ankitpandita:
     display_name: "Ankit Pandita"
     #webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: masters
+    role: alum
     #image: /img/people/pramod.jpg
     bio: AI, IISc
 
@@ -101,14 +162,14 @@ govindu:
 
 devarajuvinoda:
     display_name: "Devaraju Vinoda"
-    #webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: masters
+    webpage: "https://www.linkedin.com/in/devaraju-vinoda/"
+    role: alum
     #image: /img/people/pramod.jpg
     bio: CSA, IISc
 
 namansaxena:
     display_name: "Naman Saxena"
-    #webpage: "https://www.linkedin.com/in/lauraleeane/"
+    webpage: "https://in.linkedin.com/in/naman-saxena-718b7b175"
     role: masters
     #image: /img/people/pramod.jpg
     bio: CSA, IISc
@@ -122,10 +183,10 @@ abhishekranjan:
 
 ashirwat:
     display_name: "Aditya Shirwatkar"
-    #webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: intern
-    #image: /img/people/pramod.jpg
-    bio: VNIT
+    webpage: "https://aditya-shirwatkar.github.io/"
+    role: phd
+    image: /img/people/aditya-shirwatkar.png
+    bio: RBCCPS, IISc
 
 shishir:
     display_name: "Shishir Kolathaya (HEAD)"
@@ -178,16 +239,16 @@ soumya:
 amansingh:
     display_name: "Aman Singh"
     #webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: staff
-    #image: /img/people/pramod.jpg
-    bio: IIT, Roorkee
+    role: phd
+    image: /img/people/aman-singh.png
+    bio: RBCCPS, IISc
 
 bhavya:
     display_name: "Bhavya Giri Goswami"
-    #webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: staff
+    webpage: "https://www.linkedin.com/in/bhavya-giri-goswami/"
+    role: alum
     #image: /img/people/pramod.jpg
-    bio: IIT, Roorkee
+    bio: Grad Student, University of Waterloo
 
 sashank:
     display_name: "Sashank Tirumala"
@@ -213,9 +274,16 @@ avinash:
 lokesh:
     display_name: "Lokesh Krishna"
     webpage: "https://lok-i.github.io/website/"
-    role: intern
+    role: alum
     image: /img/people/lokesh.jpeg
-    bio: B.Tech., IIT BHU
+    bio: Grad Student, USC Viterbi
+
+shivamsood:
+    display_name: "Shivam Sood"
+    # webpage: "https://lok-i.github.io/website/"
+    role: alum
+    # image: /img/people/lokesh.jpeg
+    bio: IIT Kharagpur
 
 
 dhaivat:

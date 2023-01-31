@@ -16,16 +16,13 @@ last-updated: 2023-01-28
 
 <br>
 #### Abstract
-This work presents a simple linear policy for direct force control for quadrupedal robot locomotion. The motivation is  that  force  control  is  essential  for  highly  dynamic  and  agile motions. We learn a linear policy to generate end-foot trajectory parameters and a centroidal wrench, which is then distributed among  the  legs  based  on  the  foot  contact  information  using  a quadratic  program  (QP)  to  get  the  desired  ground  reaction forces.  Unlike  the  majority  of  the  existing  works  that  use complex nonlinear function approximators to represent the RL policy  or  model  predictive  control  (MPC)  methods  with  many optimization  variables  in  the  order  of  hundred,  our  controller uses a simple linear function approximator to represent policy along with only a twelve variable QP for the force distribution. A centroidal dynamics-based MPC method is used to generate reference trajectory data, and then the linear policy is trained using  imitation  learning  to  minimize  the  deviations  from  the reference   trajectory.   We   demonstrate   this   compute-efficient controller  on  our  robot  Stoch3  in  simulation  and  real-world experiments on indoor and outdoor terrains with push recovery.
+
+This work presents a simple linear policy for direct force control for quadrupedal robot locomotion. The motivation is  that  force  control  is  essential  for  highly  dynamic  and  agile motions. Unlike  the  majority  of  the  existing  works  that  use complex nonlinear function approximators to represent the RL policy  or  model  predictive  control  (MPC)  methods  with  many optimization  variables  in  the  order  of  hundred,  our  controller uses a simple linear function approximator to represent policy. We   demonstrate   this   compute-efficient controller  on  our  robot  Stoch3  in  simulation  and  real-world experiments on indoor and outdoor terrains with push recovery.
 
 *Full paper will be uploaded soon*
 
 <br>
-## Control Framework
-<div style="text-align:center">
-<img src="{{site.base}}/img/LinPolForceControl/overview.jpg" alt="drawing"/>
-</div>
-<br>
+
 
 ## Simulation Results
 

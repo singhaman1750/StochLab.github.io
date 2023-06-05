@@ -36,10 +36,8 @@ sreehari:
 
 kartikraj:
     display_name: "Karthik Rajgopal"
-    #webpage: "https://www.linkedin.com/in/raghav-soni-0932b71b7/"
-    role: fellow
-    #image: /img/people/raghav.jpg
-    bio: BITS Pilani
+    role: staff
+    bio: Project Assistant
 
 prakharg:
     display_name: "Prakhar Goel"
@@ -218,7 +216,19 @@ ashitava:
     image: /img/people/ashitava.jpg
     bio:  Professor
 
-
+nithin:
+    display_name: "Nithin Vasishta"
+    github: nithin127
+    role: staff
+    bio: Project Assistant
+    image: /img/people/nithin.jpg
+    
+ravikola:
+    display_name: "Ravi Kola"
+#     github: nithin127
+    role: staff
+    bio: Project Assistant
+#     image: /img/people/nithin.jpg
 
 
 pramod:

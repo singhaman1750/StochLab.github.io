@@ -6,8 +6,8 @@ description: |
   
 people:
   - manan
-  - karthik
-  - ravi
+  - karthikraj
+  - ravikola
   - mothish
 
 layout: project

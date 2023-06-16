@@ -153,9 +153,9 @@
   projects: [ theory ]
   
 - title: Force control for Robust Quadruped Locomotion: A Linear Policy Approach
-  authors: [Aditya Shirwatkar* , Vamshi Kumar Kurva∗, Devaraju Vinoda, Aman Singh, Aditya Sagi, Himanshu Lodha, Bhavya Giri Goswami, Shivam Sood, Ketan Nehete, Shishir Kolathaya]
+  authors: [Aditya Shirwatkar* , Vamshi Kumar Kurva*, Devaraju Vinoda, Aman Singh, Aditya Sagi, Himanshu Lodha, Bhavya Giri Goswami, Shivam Sood, Ketan Nehete, Shishir Kolathaya]
   date: 2023-01-01
   pub-type: journal
   publisher: "IEEE International Conference on Robotics and Automation (ICRA) 2023, London, UK"
   pdf: force_lp_ICRA_2023.pdf
-  projects: [ theory ]
+  projects: [ quadruped ]

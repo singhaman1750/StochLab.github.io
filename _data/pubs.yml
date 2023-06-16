@@ -143,3 +143,19 @@
   publisher: "L-CSS & ACC 2021"
   pdf: Safety_Critical_Kinematic_Control.pdf
   projects: [ theory ]
+  
+- title: Energy based Control Barrier functions for Robotic Manipulators with Large Safety Constraints
+  authors: [Yogita Choudhary, Shishir Kolathaya]
+  date: 2022-07-01
+  pub-type: conference
+  publisher: "European Controls Conference (ECC) 2022, London, UK"
+  pdf: EnCBF_Manipulator_ECC_2022.pdf
+  projects: [ theory ]
+  
+- title: Force control for Robust Quadruped Locomotion: A Linear Policy Approach
+  authors: [Aditya Shirwatkar* , Vamshi Kumar Kurva∗, Devaraju Vinoda, Aman Singh, Aditya Sagi, Himanshu Lodha, Bhavya Giri Goswami, Shivam Sood, Ketan Nehete, Shishir Kolathaya]
+  date: 2023-01-01
+  pub-type: journal
+  publisher: "IEEE International Conference on Robotics and Automation (ICRA) 2023, London, UK"
+  pdf: force_lp_ICRA_2023.pdf
+  projects: [ theory ]

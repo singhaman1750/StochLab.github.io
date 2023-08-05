@@ -2,7 +2,7 @@
 title: Off-Policy Average Reward Actor-Critic with Deterministic Policy Search
 
 description: |
-  A framework for utilizing experience for generating predictive simulations and learning from them.
+  Policy gradient theorem for average reward criteria with deterministic policy. 
 people:
   - namansaxena
   - subho
@@ -21,9 +21,10 @@ The average reward criterion is relatively less studied as most existing works i
 Fore more references, refer to paper at [proceedings.mlr.press/v202/saxena23a/saxena23a.pdf](https://proceedings.mlr.press/v202/saxena23a/saxena23a.pdf) and code at [github.com/namansaxena9/ARO-DDPG](https://github.com/namansaxena9/ARO-DDPG)
 
 <br>
+
 ## Block Diagram of the algorithm
 <div style="text-align:center">
-<img src="{{site.base}}/img/DeMoRL/methodology.jpg" alt="drawing"/>
+<img src="{{site.base}}/img/AverageRL/flow_diagram.jpg" alt="drawing"/>
 </div>
 <br>
 
@@ -35,6 +36,7 @@ Fore more references, refer to paper at [proceedings.mlr.press/v202/saxena23a/sa
 <br>
 
 <br/>
+
 ## Citations ##
 ```
 @inproceedings{saxena2023off,

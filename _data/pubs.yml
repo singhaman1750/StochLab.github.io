@@ -159,3 +159,11 @@
   publisher: "IEEE International Conference on Robotics and Automation (ICRA) 2023, London, UK"
   pdf: force_lp_ICRA_2023.pdf
   projects: [ quadruped ]
+
+- title: "Off-Policy Average Reward Actor-Critic with Deterministic Policy Search"
+  authors: [Naman Saxena ,Subhojyoti Khastagir, Shishir Kolathaya, Shalabh Bhatnagar]
+  date: 2023-07-25
+  pub-type: conference
+  publisher: "International Conference on Machine Learning (ICML) 2023, Hawaii, US"
+  pdf: Average_Reward_ICML_2023.pdf
+  projects: [ learning ]

@@ -172,6 +172,14 @@ namansaxena:
     #image: /img/people/pramod.jpg
     bio: CSA, IISc
 
+subho:
+    display_name: "Subhojyoti Khastagir"
+    webpage: "https://www.linkedin.com/in/subhojyoti-khastagir-2a4716152/"
+    role: alum
+    #image: /img/people/pramod.jpg
+    bio: CSA, IISc
+
+
 abhishekranjan:
     display_name: "Abhishek Ranjan"
     #webpage: "https://www.linkedin.com/in/lauraleeane/"

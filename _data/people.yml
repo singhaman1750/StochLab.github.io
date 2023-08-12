@@ -39,6 +39,11 @@ kartikraj:
     role: staff
     bio: Project Assistant
 
+vedvyas:
+    display_name: "Vedvyas Danturi"
+    role: staff
+    bio: Project Assistant
+
 prakharg:
     display_name: "Prakhar Goel"
     webpage: "https://www.linkedin.com/in/prakhar-goel-4616501a5/"
@@ -225,10 +230,8 @@ nithin:
     
 ravikola:
     display_name: "Ravi Kola"
-#     github: nithin127
     role: staff
     bio: Project Assistant
-#     image: /img/people/nithin.jpg
 
 
 pramod:

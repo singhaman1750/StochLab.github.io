@@ -154,10 +154,18 @@
   
 - title: "Force Control for Robust Quadrupedal Locomotion: A Linear Policy Approach"
   authors: [Aditya Shirwatkar* , Vamshi Kumar Kurva*, Devaraju Vinoda, Aman Singh, Aditya Sagi, Himanshu Lodha, Bhavya Giri Goswami, Shivam Sood, Ketan Nehete, Shishir Kolathaya]
-  date: 2023-01-01
+  date: 2023-05-29
   pub-type: conference
   publisher: "IEEE International Conference on Robotics and Automation (ICRA) 2023, London, UK"
   pdf: force_lp_ICRA_2023.pdf
+  projects: [ quadruped ]
+
+- title: "Efficient Robot Hopping Mechanisms with Compliance Using Evolutionary Methods"
+  authors: [Pramod Pal, Anubhab Dasgupta, Avinash Bhashkar, Shishir Kolathaya, Ashitava Ghosal]
+  date: 2023-06-14
+  pub-type: conference
+  publisher: "International Conference on Robotics in Alpe-Adria Danube Region, 2023, Bled, Slovenia"
+  pdf: 
   projects: [ quadruped ]
 
 - title: "Off-Policy Average Reward Actor-Critic with Deterministic Policy Search"
@@ -167,3 +175,27 @@
   publisher: "International Conference on Machine Learning (ICML) 2023, Hawaii, US"
   pdf: Average_Reward_ICML_2023.pdf
   projects: [ learning ]
+
+- title: "MELP: Model Embedded Linear Policies for Robust Bipedal Hopping"
+  authors: [Raghav Soni, Guillermo A. Castillo, Lokesh Krishna, Ayonga Hereid, Shishir Kolathaya]
+  date: 2023-10-01
+  pub-type: conference
+  publisher: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023, Detroit, US"
+  pdf: 
+  projects: [ biped ]
+
+- title: "Formation control of differential-drive robots with input saturation and constraints on formation size"
+  authors: [Ayush Agrawal, Mukunda Bharatheesha, Shishir Kolathaya]
+  date: 2023-12-13
+  pub-type: conference
+  publisher: "IEEE Conference on Decision and Control (CDC) 2023, Singapore"
+  pdf: 
+  projects: [ theory ]
+  
+- title: "Collision Cone Control Barrier Functions for Kinematic Obstacle Avoidance in UGVs"
+  authors: [Phani Thontepu∗, Bhavya Giri Goswami∗, Manan Tayal, Neelaksh Singh, Shyam Sundar P I, Shyam Sundar M G, Suresh Sundaram, Vaibhav Katewa, Shishir Kolathaya]
+  date: 2023-12-18
+  pub-type: conference
+  publisher: "Indian Control Conference (ICC) 2023, Vishakhapatnam, India"
+  pdf: 
+  projects: [ theory ]

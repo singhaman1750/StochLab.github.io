@@ -121,12 +121,6 @@ aditya:
     image: /img/people/aditya.jpeg
     bio: Technical Consultant
 
-sreehari:
-    display_name: "Sreehari Acharaya"
-    role: alum
-    bio: Project Assistant
-
-
 sangeet:
     display_name: "Sangeet M"
     webpage: "https://www.linkedin.com/in/sangeetmpkd7/"
@@ -170,6 +164,9 @@ soumya:
     bio: MTech CSA, 2021, Now at Quantiphi
 
 # Intern-Alumni
+sreehari:
+    display_name: "Sreehari Acharaya"
+    role: intern-alum
 
 raghav:
     display_name: "Raghav Soni"

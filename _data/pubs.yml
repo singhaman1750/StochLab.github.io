@@ -16,8 +16,6 @@
   venue: Montreal, Canada
   projects: [ quadruped ]
 
-
-
 - title: "Trajectory based deep policy search for quadrupedal walking"
   authors: [Shishir Kolathaya, Ashish Joglekar,  Suhan Shetty,  Dhaivat Dholakiya,  Aditya Sagi,  Shounak Bhattacharya,  Abhik Singla,  Shalabh Bhatnagar,  Ashitava Ghosal,  Bharadwaj Amrutur]
   date: 2019-10-13
@@ -73,7 +71,7 @@
   publisher: IROS 2021
   pdf: IROS_2021.pdf
   venue: Prague, Czech Republic
-  projects: [ biped ]
+  projects: [LinearPolicyBiped]
 
 
 - title: Linear Policies are Sufficient to Realize Robust Bipedal Walking on Challenging Terrains
@@ -82,7 +80,7 @@
   pub-type: journal
   publisher: RA-Letters & ICRA 2022
   pdf: LinearPolicySuff.pdf
-  projects: [ biped ]
+  projects: [LinearPolicyBiped]
 
 - title: Dynamic Mirror Descent based Model Predictive Control for Accelerated Robot Learning
   authors: [Utkarsh A. Mishra, Soumya R. Samineni, Prakhar Goel, Chandravaran Kunjeti, Himanshu Lodha, Aman Singh, Aditya Sagi, Shalabh Bhatnagar, Shishir Kolathaya]
@@ -90,7 +88,7 @@
   pub-type: conference
   publisher: ICRA 2022
   pdf: dmdmpc_icra2022.pdf
-  projects: [ learning ]
+  projects: [DynamicMirrorDescentRL]
 
 
 - title: Local Stability of PD Controlled Bipedal Walking Robots
@@ -158,7 +156,7 @@
   pub-type: conference
   publisher: "IEEE International Conference on Robotics and Automation (ICRA) 2023, London, UK"
   pdf: force_lp_ICRA_2023.pdf
-  projects: [ quadruped ]
+  projects: [LinPolForceControlQuad]
 
 - title: "Efficient Robot Hopping Mechanisms with Compliance Using Evolutionary Methods"
   authors: [Pramod Pal, Anubhab Dasgupta, Avinash Bhashkar, Shishir Kolathaya, Ashitava Ghosal]
@@ -174,7 +172,7 @@
   pub-type: conference
   publisher: "International Conference on Machine Learning (ICML) 2023, Hawaii, US"
   pdf: Average_Reward_ICML_2023.pdf
-  projects: [ learning ]
+  projects: [AverageRewardRL]
 
 - title: "MELP: Model Embedded Linear Policies for Robust Bipedal Hopping"
   authors: [Raghav Soni, Guillermo A. Castillo, Lokesh Krishna, Ayonga Hereid, Shishir Kolathaya]
@@ -182,7 +180,7 @@
   pub-type: conference
   publisher: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023, Detroit, US"
   pdf: 
-  projects: [ biped ]
+  projects: [LinearPolicyBiped]
 
 - title: "Formation control of differential-drive robots with input saturation and constraints on formation size"
   authors: [Ayush Agrawal, Mukunda Bharatheesha, Shishir Kolathaya]
@@ -193,9 +191,9 @@
   projects: [ theory ]
   
 - title: "Collision Cone Control Barrier Functions for Kinematic Obstacle Avoidance in UGVs"
-  authors: [Phani Thontepu∗, Bhavya Giri Goswami∗, Manan Tayal, Neelaksh Singh, Shyam Sundar P I, Shyam Sundar M G, Suresh Sundaram, Vaibhav Katewa, Shishir Kolathaya]
+  authors: [Phani Thontepu*, Bhavya Giri Goswami*, manan, Neelaksh Singh, Shyam Sundar P I, Shyam Sundar M G, Suresh Sundaram, Vaibhav Katewa, shishir]
   date: 2023-12-18
   pub-type: conference
   publisher: "Indian Control Conference (ICC) 2023, Vishakhapatnam, India"
   pdf: 
-  projects: [ theory ]
+  projects: [CollisionConeCBF]

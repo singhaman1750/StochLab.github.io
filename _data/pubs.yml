@@ -1,98 +1,80 @@
 - title: "Design, development and experimental realization of a quadrupedal research platform :Stoch"
-  authors: [Dhaivat Dholakiya,  Shounak Bhattacharya,  Ajay Gunalan,  Abhik Singla,  Shalabh Bhatnagar,  Bharadwaj Amrutur,  Ashitava Ghosal,  Shishir Kolathaya]
+  authors: [dhaivat,  shounak,  ajay,  abhik,  shalabh,  bharadwaj,  ashitava,  shishir]
   date: 2019-08-09
   pub-type: conference
   publisher: "IEEE ICCAR 2019"
   pdf: Design.pdf
   venue: Beijing, China
-  projects: [quadruped]
+  projects: [stochdesign]
 
 - title: "Realizing learned quadruped locomotion behaviors through kinematic motion primitives"
-  authors: [ Abhik Singla,  Shounak Bhattacharya,   Dhaivat Dholakiya,  Shalabh Bhatnagar,  Ashitava Ghosal,  Bharadwaj Amrutur,  Shishir Kolathaya]
+  authors: [ abhik,  shounak,   dhaivat,  shalabh,  ashitava,  bharadwaj,  shishir]
   date: 2019-05-28
   pub-type: conference
-  publisher: ICRA 2019
+  publisher: "IEEE International Conference on Robotics and Automation (ICRA) 2019"
   pdf: Realizing learned.pdf
   venue: Montreal, Canada
-  projects: [ quadruped ]
+  projects: [stochdesign]
 
 - title: "Trajectory based deep policy search for quadrupedal walking"
-  authors: [Shishir Kolathaya, Ashish Joglekar,  Suhan Shetty,  Dhaivat Dholakiya,  Aditya Sagi,  Shounak Bhattacharya,  Abhik Singla,  Shalabh Bhatnagar,  Ashitava Ghosal,  Bharadwaj Amrutur]
+  authors: [shishir, Ashish Joglekar,  Suhan Shetty,  dhaivat,  aditya,  shounak,  abhik,  shalabh,  ashitava,  bharadwaj]
   date: 2019-10-13
   pub-type: conference
   publisher: "IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) 2019"
   pdf: "Trajectory based.pdf"
   venue: New Delhi, India
-  projects: [ quadruped ]
+  projects: [Trajectoryopt]
 
 
 - title: "Learning active spine behaviors for dynamic and efficient locomotion in quadruped robots"
-  authors: [Shounak Bhattacharya,  Abhik Singla,  Dhaivat Dholakiya,  Shalabh Bhatnagar,  Bharadwaj Amrutur,  Ashitava Ghosal,  Shishir Kolathaya]
+  authors: [shounak,  abhik,  dhaivat,  shalabh,  bharadwaj,  ashitava,  shishir]
   date: 2019-10-14
   pub-type: conference
   publisher: "IEEE International Conference on Robot & Human Interactive Communication (RO-MAN)"
   pdf: Learning active.pdf
   venue: New Delhi, India
-  projects: [ quadruped ]
+  projects: [spine]
 
 
 
 - title: Learning Stable Manoeuvres in Quadruped Robots from Expert Demonstrations
-  authors: [Sashank Tirumala,  Sagar Gubbi, Kartik Paigwar, Aditya Sagi, Ashish Joglekar, Shalabh Bhatnagar, Ashitava Ghosal, Bharadwaj Amrutur, Shishir Kolathaya]
+  authors: [sashank,  Sagar Gubbi, kartik, aditya, Ashish Joglekar, shalabh, ashitava, bharadwaj, shishir]
   date: 2020-07-28
   pub-type: conference
   publisher: "IEEE International Conference on Robot & Human Interactive Communication (RO-MAN) 2020"
   venue: Naples, Italy
   pdf: Learning Stable.pdf
-  projects: [ quadruped ]
+  projects: [Augmented Random Search]
 
 
 - title: Gait Library Synthesis for Quadruped Robots via Augmented Random Search
-  authors: [Sashank Tirumala, Aditya Sagi, Kartik Paigwar, Ashish Joglekar,  Shalabh Bhatnagar, Ashitava Ghosal, Bharadwaj Amrutur, Shishir  Kolathaya]
+  authors: [sashank, aditya, kartik, Ashish Joglekar, shalabh, ashitava, bharadwaj, shishir]
   date: 2019-12-30
   pub-type: preprint
   publisher: arXiv
   pdf: Gait Library.pdf
-  projects: [ quadruped ]
+  projects: [Augmented Random Search]
 
 - title: Robust Quadrupedal Locomotion on Sloped Terrains - A Linear Policy Approach
-  authors: [Kartik Paigwar, Lokesh Krishna, Sashank Tirumala, Naman Khetan, Aditya Sagi, Ashish Joglekar, Shalabh Bhatnagar, Ashitava Ghosal, Bharadwaj Amrutur, Shishir Kolathaya]
+  authors: [kartik, lokesh, sashank, Naman Khetan, aditya, Ashish Joglekar, shalabh, ashitava, bharadwaj, shishir]
   date: 2020-11-02
   pub-type: conference
-  publisher: "4th Conference on Robot Learning (CoRL 2020), Cambridge MA, USA."
+  publisher: "4th Conference on Robot Learning (CoRL 2020), Cambridge MA, USA"
   pdf: CORL_2020.pdf
-  projects: [ quadruped ]
+  projects: [slope]
 
 
 - title: Learning  Linear  Policies  for  Robust  Bipedal  Locomotionon  Terrains  with  Varying  Slopes
-  authors: [Lokesh Krishna, Utkarsh A. Mishra, Guillermo A. Castillo, Ayonga Hereid, Shishir Kolathaya]
+  authors: [lokesh, utkarsh, Guillermo A. Castillo, Ayonga Hereid, shishir]
   date: 2021-09-27
   pub-type: conference
-  publisher: IROS 2021
+  publisher: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2021"
   pdf: IROS_2021.pdf
   venue: Prague, Czech Republic
   projects: [LinearPolicyBiped]
 
-
-- title: Linear Policies are Sufficient to Realize Robust Bipedal Walking on Challenging Terrains
-  authors: [Lokesh Krishna*, Guillermo A. Castillo*, Utkarsh A. Mishra, Ayonga Hereid, Shishir Kolathaya]
-  date: 2022-01-01
-  pub-type: journal
-  publisher: RA-Letters & ICRA 2022
-  pdf: LinearPolicySuff.pdf
-  projects: [LinearPolicyBiped]
-
-- title: Dynamic Mirror Descent based Model Predictive Control for Accelerated Robot Learning
-  authors: [Utkarsh A. Mishra, Soumya R. Samineni, Prakhar Goel, Chandravaran Kunjeti, Himanshu Lodha, Aman Singh, Aditya Sagi, Shalabh Bhatnagar, Shishir Kolathaya]
-  date: 2022-01-01
-  pub-type: conference
-  publisher: ICRA 2022
-  pdf: dmdmpc_icra2022.pdf
-  projects: [DynamicMirrorDescentRL]
-
-
 - title: Local Stability of PD Controlled Bipedal Walking Robots
-  authors: [Shishir Kolathaya]
+  authors: [shishir]
   date: 2020-04-01
   pub-type: journal
   publisher: "Automatica"
@@ -100,16 +82,16 @@
   projects: [ theory ]
 
 - title: PD Tracking for a Class of Underactuated Robotic Systems With Kinetic Symmetry
-  authors: [Shishir Kolathaya]
+  authors: [shishir]
   date: 2021-07-01
   pub-type: journal
-  publisher: "IEEE Control Systems Letters (L-CSS) & Conference on Decision and Control (CDC) 2020"
+  publisher: "IEEE Control Systems Letters (L-CSS) & Conference on Decision and Control (CDC) 2020, Jeju Island, South Korea"
   pdf: kolathaya_pd_tracking.pdf
   projects: [ theory ]
 
 
 - title: Inverse Kinematics Analysis of Cassie Robot using Radial Basis Function Networks
-  authors: [Mukund Mitra, Suman Raj, Shishir Kolathaya]
+  authors: [Mukund Mitra, Suman Raj, shishir]
   date: 2021-09-01
   pub-type: conference
   publisher: "IEEE International Symposium of Asian Control Association on Intelligent Robotics and Industrial Automation (IRIA) 2021"
@@ -118,40 +100,56 @@
 
 
 - title: Motion Planning With Dynamic Obstacles Using Convexified Control Barrier Functions
-  authors: [VP Varun, AP Vinod, S Kolathaya]
+  authors: [VP Varun, AP Vinod, shishir]
   date: 2021-12-01
   pub-type: conference
-  publisher: "IEEE Indian Control Conference (ICC) 2021"
+  publisher: "IEEE Indian Control Conference (ICC) 2021, Mumbai, India"
   pdf: convexified_cbf_icc2021.pdf
   projects: [ theory ]
 
 
 - title: Coupled control Lyapunov functions for interconnected systems, with application to quadrupedal locomotion
-  authors: [Wen-Loong Ma, Noel Csomay-Shanklin, Shishir Kolathaya, Kaveh Akbari Hamed, Aaron D Ames]
+  authors: [Wen-Loong Ma, Noel Csomay-Shanklin, shishir, Kaveh Akbari Hamed, Aaron D Ames]
   date: 2021-05-01
   pub-type: journal
-  publisher: "RA Letters & ICRA 2021"
+  publisher: "RA Letters & IEEE International Conference on Robotics and Automation (ICRA) 2021, Xi'an, China"
   pdf: RAL21_CCS.pdf
   projects: [ quadruped ]
 
 - title: Safety-Critical Kinematic Control of Robotic Systems
-  authors: [Andrew Singletary, Shishir Kolathaya, and Aaron D. Ames]
+  authors: [Andrew Singletary, shishir, and Aaron D. Ames]
   date: 2021-01-01
   pub-type: journal
-  publisher: "L-CSS & ACC 2021"
+  publisher: "L-CSS & American Control Conference (ACC) 2021, Virtually"
   pdf: Safety_Critical_Kinematic_Control.pdf
   projects: [ theory ]
-  
+
+- title: Linear Policies are Sufficient to Realize Robust Bipedal Walking on Challenging Terrains
+  authors: [lokesh*, Guillermo A. Castillo*, utkarsh, Ayonga Hereid, shishir]
+  date: 2022-01-01
+  pub-type: journal
+  publisher: "RA-Letters & IEEE International Conference on Robotics and Automation (ICRA) 2022, Philadelphia, USA"
+  pdf: LinearPolicySuff.pdf
+  projects: [LinearPolicyBiped]
+
+- title: Dynamic Mirror Descent based Model Predictive Control for Accelerated Robot Learning
+  authors: [utkarsh, soumya, prakharg, cvk, himanshulodha, amansingh, aditya, shalabh, shishir]
+  date: 2022-01-01
+  pub-type: conference
+  publisher: "IEEE International Conference on Robotics and Automation (ICRA) 2022, Philadelphia, USA"
+  pdf: dmdmpc_icra2022.pdf
+  projects: [DynamicMirrorDescentRL]
+
 - title: Energy based Control Barrier functions for Robotic Manipulators with Large Safety Constraints
-  authors: [Yogita Choudhary, Shishir Kolathaya]
+  authors: [Yogita Choudhary, shishir]
   date: 2022-07-01
   pub-type: conference
   publisher: "European Controls Conference (ECC) 2022, London, UK"
   pdf: EnCBF_Manipulator_ECC_2022.pdf
-  projects: [ theory ]
+  projects: [EnergyCBF]
   
 - title: "Force Control for Robust Quadrupedal Locomotion: A Linear Policy Approach"
-  authors: [Aditya Shirwatkar* , Vamshi Kumar Kurva*, Devaraju Vinoda, Aman Singh, Aditya Sagi, Himanshu Lodha, Bhavya Giri Goswami, Shivam Sood, Ketan Nehete, Shishir Kolathaya]
+  authors: [ashirwat* , vamshi*, devarajuvinoda, amansingh, aditya, himanshulodha, bhavya, shivamsood, Ketan Nehete, shishir]
   date: 2023-05-29
   pub-type: conference
   publisher: "IEEE International Conference on Robotics and Automation (ICRA) 2023, London, UK"
@@ -159,15 +157,31 @@
   projects: [LinPolForceControlQuad]
 
 - title: "Efficient Robot Hopping Mechanisms with Compliance Using Evolutionary Methods"
-  authors: [Pramod Pal, Anubhab Dasgupta, Avinash Bhashkar, Shishir Kolathaya, Ashitava Ghosal]
+  authors: [pramod, Anubhab Dasgupta, avinash, shishir, ashitava]
   date: 2023-06-14
   pub-type: conference
   publisher: "International Conference on Robotics in Alpe-Adria Danube Region, 2023, Bled, Slovenia"
-  pdf: 
+  pdf: https://link.springer.com/chapter/10.1007/978-3-031-32606-6_53
   projects: [ quadruped ]
 
+- title: "Optimum Design of a Compliant Foot for a Quadruped"
+  authors: [pramod, Anubhab Dasgupta, shishir, ashitava]
+  date: 2023-07-05
+  pub-type: conference
+  publisher: "6th International Conference of Advances In Robotics (AIR) 2023"
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3610419.3610448
+  projects: [quadruped]
+
+- title: "Realizing Linear Controllers for Quadruped Robots on Planetary"
+  authors: [ashirwat, Shamrao Garur, Vinod Kumar, shishir]
+  date: 2023-07-05
+  pub-type: conference
+  publisher: "6th International Conference of Advances In Robotics (AIR) 2023"
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3610419.3610572
+  projects: [quadruped]
+
 - title: "Off-Policy Average Reward Actor-Critic with Deterministic Policy Search"
-  authors: [Naman Saxena ,Subhojyoti Khastagir, Shishir Kolathaya, Shalabh Bhatnagar]
+  authors: [namansaxena, subho, shishir, shalabh]
   date: 2023-07-25
   pub-type: conference
   publisher: "International Conference on Machine Learning (ICML) 2023, Hawaii, US"
@@ -175,25 +189,25 @@
   projects: [AverageRewardRL]
 
 - title: "MELP: Model Embedded Linear Policies for Robust Bipedal Hopping"
-  authors: [Raghav Soni, Guillermo A. Castillo, Lokesh Krishna, Ayonga Hereid, Shishir Kolathaya]
+  authors: [raghav, Guillermo A. Castillo, lokesh, Ayonga Hereid, shishir]
   date: 2023-10-01
   pub-type: conference
-  publisher: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023, Detroit, US"
-  pdf: 
+  publisher: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023, Detroit, USA"
+  pdf: melp.pdf
   projects: [LinearPolicyBiped]
 
 - title: "Formation control of differential-drive robots with input saturation and constraints on formation size"
-  authors: [Ayush Agrawal, Mukunda Bharatheesha, Shishir Kolathaya]
+  authors: [Ayush Agrawal, Mukunda Bharatheesha, shishir]
   date: 2023-12-13
   pub-type: conference
   publisher: "IEEE Conference on Decision and Control (CDC) 2023, Singapore"
-  pdf: 
+  pdf: formation_control.pdf
   projects: [ theory ]
   
 - title: "Collision Cone Control Barrier Functions for Kinematic Obstacle Avoidance in UGVs"
-  authors: [Phani Thontepu*, Bhavya Giri Goswami*, manan, Neelaksh Singh, Shyam Sundar P I, Shyam Sundar M G, Suresh Sundaram, Vaibhav Katewa, shishir]
+  authors: [phani*, bhavya*, manan, Neelaksh Singh, Shyam Sundar P I, Shyam Sundar M G, Suresh Sundaram, Vaibhav Katewa, shishir]
   date: 2023-12-18
   pub-type: conference
   publisher: "Indian Control Conference (ICC) 2023, Vishakhapatnam, India"
-  pdf: 
+  pdf: c3bf_icc.pdf
   projects: [CollisionConeCBF]

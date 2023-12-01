@@ -273,6 +273,10 @@ abhimanyu:
     display_name: "Abhimanyu"
     role: intern-alum
 
+kartik:
+    display_name: "Kartik Paigwar"
+    role: intern-alum
+
 ajay:
     display_name: "Ajay Gunalan"
     webpage: "https://ajaygunalan.github.io/"

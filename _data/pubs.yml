@@ -205,7 +205,7 @@
   projects: [ theory ]
   
 - title: "Collision Cone Control Barrier Functions for Kinematic Obstacle Avoidance in UGVs"
-  authors: [phani*, bhavya*, manan, Neelaksh Singh, Shyam Sundar P I, Shyam Sundar M G, Suresh Sundaram, Vaibhav Katewa, shishir]
+  authors: [phani *, bhavya *, manan, Neelaksh Singh, Shyam Sundar P I, Shyam Sundar M G, Suresh Sundaram, Vaibhav Katewa, shishir]
   date: 2023-12-18
   pub-type: conference
   publisher: "Indian Control Conference (ICC) 2023, Vishakhapatnam, India"

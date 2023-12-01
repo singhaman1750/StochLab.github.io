@@ -8,7 +8,7 @@
   projects: [stochdesign]
 
 - title: "Realizing learned quadruped locomotion behaviors through kinematic motion primitives"
-  authors: [ abhik,  shounak,   dhaivat,  shalabh,  ashitava,  bharadwaj,  shishir]
+  authors: [ abhik,  shounak, dhaivat, shalabh,  ashitava,  bharadwaj,  shishir]
   date: 2019-05-28
   pub-type: conference
   publisher: "IEEE International Conference on Robotics and Automation (ICRA) 2019"
@@ -25,7 +25,14 @@
   venue: New Delhi, India
   projects: [Trajectoryopt]
 
-
+- title: "Energy based Control Barrier Functions for Robotic Systems"
+  authors: [shishir]
+  date: 2020-08-21
+  pub-type: TechArxiv
+  publisher: "TechArxiv"
+  pdf: "https://www.techrxiv.org/articles/preprint/Energy_based_Control_Barrier_Functions_for_Robotic_Systems/12831503"
+  projects: [EnergyCBF]
+  
 - title: "Learning active spine behaviors for dynamic and efficient locomotion in quadruped robots"
   authors: [shounak,  abhik,  dhaivat,  shalabh,  bharadwaj,  ashitava,  shishir]
   date: 2019-10-14
@@ -35,8 +42,6 @@
   venue: New Delhi, India
   projects: [spine]
 
-
-
 - title: Learning Stable Manoeuvres in Quadruped Robots from Expert Demonstrations
   authors: [sashank,  Sagar Gubbi, kartik, aditya, Ashish Joglekar, shalabh, ashitava, bharadwaj, shishir]
   date: 2020-07-28
@@ -45,7 +50,6 @@
   venue: Naples, Italy
   pdf: Learning Stable.pdf
   projects: [Augmented Random Search]
-
 
 - title: Gait Library Synthesis for Quadruped Robots via Augmented Random Search
   authors: [sashank, aditya, kartik, Ashish Joglekar, shalabh, ashitava, bharadwaj, shishir]
@@ -63,6 +67,13 @@
   pdf: CORL_2020.pdf
   projects: [slope]
 
+- title: Local Stability of PD Controlled Bipedal Walking Robots
+  authors: [shishir]
+  date: 2020-04-01
+  pub-type: journal
+  publisher: "Automatica"
+  pdf: kolathayapdbiped.pdf
+  projects: [ theory ]
 
 - title: Learning  Linear  Policies  for  Robust  Bipedal  Locomotionon  Terrains  with  Varying  Slopes
   authors: [lokesh, utkarsh, Guillermo A. Castillo, Ayonga Hereid, shishir]
@@ -72,14 +83,6 @@
   pdf: IROS_2021.pdf
   venue: Prague, Czech Republic
   projects: [LinearPolicyBiped]
-
-- title: Local Stability of PD Controlled Bipedal Walking Robots
-  authors: [shishir]
-  date: 2020-04-01
-  pub-type: journal
-  publisher: "Automatica"
-  pdf: kolathayapdbiped.pdf
-  projects: [ theory ]
 
 - title: PD Tracking for a Class of Underactuated Robotic Systems With Kinetic Symmetry
   authors: [shishir]
@@ -125,7 +128,7 @@
   projects: [ theory ]
 
 - title: Linear Policies are Sufficient to Realize Robust Bipedal Walking on Challenging Terrains
-  authors: [lokesh*, Guillermo A. Castillo*, utkarsh, Ayonga Hereid, shishir]
+  authors: [lokesh, Guillermo A. Castillo, utkarsh, Ayonga Hereid, shishir]
   date: 2022-01-01
   pub-type: journal
   publisher: "RA-Letters & IEEE International Conference on Robotics and Automation (ICRA) 2022, Philadelphia, USA"
@@ -141,7 +144,7 @@
   projects: [DynamicMirrorDescentRL]
 
 - title: Energy based Control Barrier functions for Robotic Manipulators with Large Safety Constraints
-  authors: [Yogita Choudhary, shishir]
+  authors: [yogita, shishir]
   date: 2022-07-01
   pub-type: conference
   publisher: "European Controls Conference (ECC) 2022, London, UK"
@@ -149,7 +152,7 @@
   projects: [EnergyCBF]
   
 - title: "Force Control for Robust Quadrupedal Locomotion: A Linear Policy Approach"
-  authors: [ashirwat* , vamshi*, devarajuvinoda, amansingh, aditya, himanshulodha, bhavya, shivamsood, Ketan Nehete, shishir]
+  authors: [ashirwat, vamshi, devarajuvinoda, amansingh, aditya, himanshulodha, bhavya, shivamsood, Ketan Nehete, shishir]
   date: 2023-05-29
   pub-type: conference
   publisher: "IEEE International Conference on Robotics and Automation (ICRA) 2023, London, UK"
@@ -205,7 +208,7 @@
   projects: [ theory ]
   
 - title: "Collision Cone Control Barrier Functions for Kinematic Obstacle Avoidance in UGVs"
-  authors: [phani *, bhavya *, manan, Neelaksh Singh, Shyam Sundar P I, Shyam Sundar M G, Suresh Sundaram, Vaibhav Katewa, shishir]
+  authors: [phani, bhavya, manan, Neelaksh Singh, Shyam Sundar P I, Shyam Sundar M G, Suresh Sundaram, Vaibhav Katewa, shishir]
   date: 2023-12-18
   pub-type: conference
   publisher: "Indian Control Conference (ICC) 2023, Vishakhapatnam, India"

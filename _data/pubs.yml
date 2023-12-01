@@ -214,3 +214,11 @@
   publisher: "Indian Control Conference (ICC) 2023, Vishakhapatnam, India"
   pdf: c3bf_icc.pdf
   projects: [CollisionConeCBF]
+
+- title: "Control Barrier Functions in Dynamic UAVs for Kinematic Obstacle Avoidance: A Collision Cone Approach"
+  authors: [manan, shishir]
+  date: 
+  pub-type: preprint
+  publisher: "Arxiv (in review)"
+  pdf: https://arxiv.org/pdf/2303.15871.pdf
+  projects: [CollisionConeCBF]

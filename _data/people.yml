@@ -38,6 +38,7 @@ namansaxena:
 
 abhishekranjan:
     display_name: "Abhishek Ranjan"
+    webpage: "https://www.linkedin.com/in/ranjan1abhi/"
     role: staff
 
 nithin:
@@ -76,6 +77,7 @@ pkotecha:
 
 pramod:
     display_name: "Pramod Pal"
+    webpage: "pramodpal.github.io"
     github: ppalcx
     role: phd
     image: /img/people/pramod.jpg
@@ -99,6 +101,7 @@ manan:
 
 amansingh:
     display_name: "Aman Singh"
+    webpage: "https://singhaman1750.github.io/"
     role: phd
     image: /img/people/aman-singh.png
     bio: RBCCPS, IISc
@@ -204,6 +207,7 @@ prathameshsaraf:
     
 yogita:
     display_name: "Yogita Choudhary"
+    webpage: "https://www.linkedin.com/in/yogita-choudhary-2b48b015a/"
     role: intern-alum
 
 somnath:
@@ -223,6 +227,7 @@ utkarsh:
 
 himanshulodha:
     display_name: "Himanshu Lodha"
+    webpage: "https://www.linkedin.com/in/himanshu-lodha-854869159/"
     role: intern-alum
 
 bhavya:
@@ -232,6 +237,7 @@ bhavya:
 
 sashank:
     display_name: "Sashank Tirumala"
+    webpage: "https://www.linkedin.com/in/tirumala1998/"
     role: intern-alum
 
 tejas:
@@ -240,7 +246,8 @@ tejas:
     image: /img/people/tejas.jpg
 
 avinash:
-    display_name: "Avinash Bhashkar "
+    display_name: "Avinash Bhashkar"
+    webpage: "https://www.linkedin.com/in/avinash-bhashkar-674a561ab/"
     role: intern-alum
     image: /img/people/avinash.jpg
 
@@ -252,6 +259,7 @@ lokesh:
 
 shivamsood:
     display_name: "Shivam Sood"
+    webpage: "https://www.linkedin.com/in/shivam-sood-a79866196/"
     role: intern-alum
 
 dhaivat:
@@ -275,6 +283,7 @@ abhimanyu:
 
 kartik:
     display_name: "Kartik Paigwar"
+    webpage: "https://kartikpaigwar.github.io/"
     role: intern-alum
 
 ajay:

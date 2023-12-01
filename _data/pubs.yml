@@ -28,7 +28,7 @@
 - title: "Energy based Control Barrier Functions for Robotic Systems"
   authors: [shishir]
   date: 2020-08-21
-  pub-type: TechArxiv
+  pub-type: preprint
   publisher: "TechArxiv"
   pdf: "https://www.techrxiv.org/articles/preprint/Energy_based_Control_Barrier_Functions_for_Robotic_Systems/12831503"
   projects: [EnergyCBF]

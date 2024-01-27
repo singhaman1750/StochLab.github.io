@@ -27,10 +27,6 @@ karthikraj:
     display_name: "Karthik Rajgopal"
     role: staff
 
-vedvyas:
-    display_name: "Vedvyas Danturi"
-    role: staff
-
 namansaxena:
     display_name: "Naman Saxena"
     webpage: "https://in.linkedin.com/in/naman-saxena-718b7b175"
@@ -167,6 +163,10 @@ soumya:
     bio: MTech CSA, 2021, Now at Quantiphi
 
 # Intern-Alumni
+
+vedvyas:
+    display_name: "Vedvyas Danturi"
+    role: intern-alum
 
 prakharg:
     display_name: "Prakhar Goel"

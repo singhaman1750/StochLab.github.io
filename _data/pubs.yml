@@ -217,7 +217,7 @@
 
 - title: "Control Barrier Functions in Dynamic UAVs for Kinematic Obstacle Avoidance: A Collision Cone Approach"
   authors: [manan, Rajpal Singh, Jishnu Keshavan, shishir]
-  date: 2023-07-10
+  date: 2024-07-10
   pub-type: conference
   publisher: "American Control Conference (ACC) 2024, Toronto, Canada"
   pdf: https://arxiv.org/pdf/2303.15871.pdf
@@ -225,7 +225,7 @@
 
 - title: "Collision Cone Control Barrier Functions: Experimental Validation on UGVs for Kinematic Obstacle Avoidance"
   authors: [bhavya, manan, karthik, Pushpak Jagtap, shishir]
-  date: 2023-07-10
+  date: 2024-07-10
   pub-type: conference
   publisher: "American Control Conference (ACC) 2024, Toronto, Canada"
   pdf: https://arxiv.org/pdf/2303.15871.pdf

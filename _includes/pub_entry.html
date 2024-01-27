@@ -1,43 +1,44 @@
-{% assign pub = include.pub %}
-
-{% if pub.pdf %}
-    {% if pub.pdf contains "http" %}
-        {% assign url = pub.pdf %}
+{% if pub.pub-type == "journal" %}
+    {% assign pub = include.pub %}
+    
+    {% if pub.pdf %}
+        {% if pub.pdf contains "http" %}
+            {% assign url = pub.pdf %}
+        {% else %}
+            {% assign url = "/papers/" | append: pub.pdf %}
+        {% endif %}
+        {% capture title %}
+            <span class="pubtitle">
+                {% if url contains "pdf" %}
+                    <img src={{ "img/pdficon_small.png" | relative_url }} width="20" height="20" alt="PDF" />
+                {% endif %}
+                <a href="{{ url | escape }}"> {{ pub.title }} </a>
+            </span>
+        {% endcapture %}
     {% else %}
-        {% assign url = "/papers/" | append: pub.pdf %}
+        {% assign title = pub.title %}
     {% endif %}
-    {% capture title %}
-        <span class="pubtitle">
-            {% if url contains "pdf" %}
-                <img src={{ "img/pdficon_small.png" | relative_url }} width="20" height="20" alt="PDF" />
+    
+    {% assign year = pub.date | date: "%Y" %}
+    {% assign year = year | to_integer %}
+    {% assign month = pub.date | date: "%B" %}
+    {% capture date %}
+        <span class="date">
+            {% if year != include.prev_year %}
+                <big><strong>{{ year }}</strong></big><br />
+            {% else %}
+                <br />
             {% endif %}
-            <a href="{{ url | escape }}"> {{ pub.title }} </a>
+            {{ month }}
         </span>
     {% endcapture %}
-{% else %}
-    {% assign title = pub.title %}
-{% endif %}
-
-{% assign year = pub.date | date: "%Y" %}
-{% assign year = year | to_integer %}
-{% assign month = pub.date | date: "%B" %}
-{% capture date %}
-    <span class="date">
-        {% if year != include.prev_year %}
-            <big><strong>{{ year }}</strong></big><br />
-        {% else %}
-            <br />
-        {% endif %}
-        {{ month }}
-    </span>
-{% endcapture %}
-
-{% capture authors %}
-    {% include authors.html authors=pub.authors %}
-{% endcapture %}
+    
+    {% capture authors %}
+        {% include authors.html authors=pub.authors %}
+    {% endcapture %}
 
 
-{% if pub.pub-type == "journal" %}
+
     <h2> Journal Papers </h2> 
     <tr>
         <td>

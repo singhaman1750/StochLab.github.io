@@ -81,7 +81,7 @@ pramod:
     github: ppalcx
     role: phd
     image: /img/people/pramod.jpg
-    bio: ME, IISc
+    bio: Design of Legged Robots
 
 vamshi:
     display_name: "Vamshi Kumar Kurva"
@@ -89,7 +89,7 @@ vamshi:
     role: phd
     github: vamshikumarkurva
     image: /img/people/vamshikumar.png
-    bio: CSA, IISc
+    bio: Learning Based Control
 
 manan:
     display_name: "Manan Tayal"
@@ -97,21 +97,21 @@ manan:
     role: phd
     github: tayalmanan28
     image: /img/people/manan.jpg
-    bio: RBCCPS, IISc
+    bio: Safe Robot Learning and Control
 
 amansingh:
     display_name: "Aman Singh"
     webpage: "https://singhaman1750.github.io/"
     role: phd
     image: /img/people/aman-singh.png
-    bio: RBCCPS, IISc
+    bio: Design and Control Co-Optimization 
 
 ashirwat:
     display_name: "Aditya Shirwatkar"
     webpage: "https://aditya-shirwatkar.github.io/"
     role: phd
     image: /img/people/aditya-shirwatkar.png
-    bio: RBCCPS, IISc
+    bio: Model Based RL
 
 
 # Alumni

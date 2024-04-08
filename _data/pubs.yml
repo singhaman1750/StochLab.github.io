@@ -222,7 +222,23 @@
   publisher: "IEEE International Conference on Control, Automation and Robotics (ICCAR) 2024, Singapore"
   pdf: https://arxiv.org/pdf/2312.06512.pdf
   projects: [StochBiRo]
+
+- title: "Barrier Functions Inspired Reward Shaping for Reinforcement Learning"
+  authors: [Nilaksh*, Abhishek Ranjan*, Shreenabh Agrawal*, Aayush Jain, Pushpak Jagtap, Shishir Kolathaya]
+  date: 2024-05-15
+  pub-type: conference
+  publisher: "IEEE International Conference on Robotics and Automation (ICRA) 2024, Yokohama, Japan"
+  pdf: https://arxiv.org/pdf/2403.01410v1.pdf
+  projects: [StochBiRo]
   
+- title: "Polygonal Cone Control Barrier Functions (PolyC2BF) for safe navigation in cluttered environments"
+  authors: [Manan Tayal, Shishir Kolathaya]
+  date: 2024-06-27
+  pub-type: conference
+  publisher: "European Control Conference (ECC) 2024, Stockholm, Sweden"
+  pdf: https://arxiv.org/pdf/2311.08787.pdf
+  projects: [CollisionConeCBF]
+
 - title: "Control Barrier Functions in Dynamic UAVs for Kinematic Obstacle Avoidance: A Collision Cone Approach"
   authors: [Manan Tayal, Rajpal Singh, Jishnu Keshavan, Shishir Kolathaya]
   date: 2024-07-10

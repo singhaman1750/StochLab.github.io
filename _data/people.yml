@@ -1,4 +1,64 @@
 #Current Staff members
+mjavale:
+    display_name: "Mohit Javale"
+    webpage: "https://sites.google.com/view/mohitjavale"
+    image: /img/people/mohit_javale.jpg
+    role: staff
+    
+kgarg:
+    display_name: "Kartik Garg"
+    webpage: "https://sites.google.com/view/kartik-garg/home"
+    image: /img/people/Kartik_Garg.jpg
+    role: staff
+    
+ketan:
+    display_name: "Ketan Nehete"
+    webpage: "https://www.linkedin.com/in/ketan-nehete"
+    image: /img/people/ketan_nehete.jpg
+    role: staff
+
+karthikraj:
+    display_name: "Karthik Rajgopal"
+    webpage: "https://www.linkedin.com/in/karthik-rajgopal-1035021ba"
+    image: /img/people/Karthik_Rajgopal.jpg
+    role: staff
+
+namansaxena:
+    display_name: "Naman Saxena"
+    webpage: "https://in.linkedin.com/in/naman-saxena-718b7b175"
+    image: /img/people/naman_saxena.jpg
+    role: staff
+
+abhishekranjan:
+    display_name: "Abhishek Ranjan"
+    webpage: "https://www.linkedin.com/in/ranjan1abhi/"
+    image: /img/people/Abhishek_Ranjan.jpg
+    role: staff
+
+nithin:
+    display_name: "Nithin Vasishta"
+    github: nithin127
+    role: staff
+    image: /img/people/nithin.png
+    
+tejasrao:
+    display_name: "Tejas Rao"
+    webpage: "https://www.linkedin.com/in/tejas-rao-0781201b5/"
+    image: /img/people/Tejas_Rao.jpg
+    role: staff
+
+luckykantnayak:
+    display_name: "Lucky Kant Nayak"
+    webpage: "https://www.linkedin.com/in/lucky-kant-nayak-798827171/"
+    image: /img/people/Lucky_Kant_Nayak.jpg
+    role: staff
+
+amitsawant:
+    display_name: "Amit Sawant"
+    webpage: "https://www.linkedin.com/in/amit-sawant-201677160/"
+    image: /img/people/Amit_Sawant.jpg
+    role: staff
+
 vemuru:
     display_name: "Srihari Vemuru"
     role: staff
@@ -10,62 +70,57 @@ ddarji:
 vjoshi:
     display_name: "Vishnu Joshi"
     role: staff
-    
-mjavale:
-    display_name: "Mohit Javale"
-    role: staff
-    
-kgarg:
-    display_name: "Karthik Garg"
-    role: staff
-    
-ketan:
-    display_name: "Ketan Nehete"
-    role: staff
 
-karthikraj:
-    display_name: "Karthik Rajgopal"
-    role: staff
-
-namansaxena:
-    display_name: "Naman Saxena"
-    webpage: "https://in.linkedin.com/in/naman-saxena-718b7b175"
-    role: staff
-
-abhishekranjan:
-    display_name: "Abhishek Ranjan"
-    webpage: "https://www.linkedin.com/in/ranjan1abhi/"
-    role: staff
-
-nithin:
-    display_name: "Nithin Vasishta"
-    github: nithin127
-    role: staff
-    image: /img/people/nithin.png
-    
-ravikola:
-    display_name: "Ravi Kola"
-    role: staff
+# Intern 
+narayananpp:
+    display_name: "Narayanan PP"
+    webpage: "https://www.linkedin.com/in/narayanan-pp-504a10164/"
+    image: /img/people/Narayanan_PP.jpg
+    role: intern
 
 # MTech Students
 mothish:
     display_name: "GVS Mothish"
     webpage: "https://www.linkedin.com/in/gvs-mothish-536138209/"
+    image: /img/people/GVS_Mothish.jpg
     role: masters
     bio: RAS, IISc
 
-tirthsyala:
-    display_name: "Tirth Siyala"
+sudharsan:
+    display_name: "Sudharsan"
+    webpage: "https://www.linkedin.com/in/gvs-mothish-536138209/"
+    image: /img/people/GVS_Mothish.jpg
     role: masters
-    bio: M Tech (Res)
+    bio: RAS, IISc
+
+mothish:
+    display_name: "Vaishnav B​"
+    webpage: "https://www.linkedin.com/in/vaishnav-b-55116722a/"
+    role: masters
+    bio: RAS, IISc
+
+mothish:
+    display_name: "Shreyansh Sharma​"
+    webpage: "https://www.linkedin.com/in/shreyansh-sharma-4044b0176/"
+    image: /img/people/Shreyansh_Sharma.jpg
+    role: masters
+    bio: RAS, IISc
 
 amishra:
     display_name: "Aastha Mishra"
+    image: /img/people/Aastha_Mishra.jpg
     role: masters
     bio: M Tech (Res)
 
 pkotecha:
     display_name: "Prakrut Kotecha"
+    webpage: "https://www.linkedin.com/in/prakrut-kotecha-044093189/"
+    image: /img/people/Prakrut_Kotecha.jpg
+    role: masters
+    bio: M Tech (Res)
+
+tirthsyala:
+    display_name: "Tirth Siyala"
     role: masters
     bio: M Tech (Res)
 
@@ -162,7 +217,12 @@ soumya:
     role: alum
     bio: MTech CSA, 2021, Now at Quantiphi
 
+
 # Intern-Alumni
+
+ravikola:
+    display_name: "Ravi Kola"
+    role: intern-alum
 
 vedvyas:
     display_name: "Vedvyas Danturi"

@@ -247,6 +247,14 @@
   pdf: https://arxiv.org/pdf/2312.06512.pdf
   projects: [StochBiRo]
 
+- title: "Vision Based C3BF in UGV Unicycle Model"
+  authors: [Sahil Bobade, Anand Sortur, Sudharsan Vishwanathan, Rushikesh Jadhav, Shishir Kolathaya]
+  date: 2024-05-01
+  pub-type: conference
+  publisher: "Pre-print"
+  pdf: Vision_Based_C3BF_in_UGV_Unicycle_Model.pdf
+  projects: [CBF]
+
 - title: "Barrier Functions Inspired Reward Shaping for Reinforcement Learning"
   authors: [Nilaksh*, Abhishek Ranjan*, Shreenabh Agrawal*, Aayush Jain, Pushpak Jagtap, Shishir Kolathaya]
   date: 2024-05-15

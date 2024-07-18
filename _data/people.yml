@@ -1,67 +1,9 @@
 #Current Staff members
-mjavale:
-    display_name: "Mohit Javale"
-    webpage: "https://sites.google.com/view/mohitjavale"
-    image: /img/people/mohit_javale.jpg
-    role: staff
-    
-kgarg:
-    display_name: "Kartik Garg"
-    webpage: "https://sites.google.com/view/kartik-garg/home"
-    image: /img/people/Kartik_Garg.jpg
-    role: staff
-    
-ketan:
-    display_name: "Ketan Nehete"
-    webpage: "https://www.linkedin.com/in/ketan-nehete"
-    image: /img/people/ketan_nehete.jpg
-    role: staff
-
-karthikraj:
-    display_name: "Karthik Rajgopal"
-    webpage: "https://www.linkedin.com/in/karthik-rajgopal-1035021ba"
-    image: /img/people/Karthik_Rajgopal.jpg
-    role: staff
-
-namansaxena:
-    display_name: "Naman Saxena"
-    webpage: "https://in.linkedin.com/in/naman-saxena-718b7b175"
-    image: /img/people/naman_saxena.jpg
-    role: staff
-
-abhishekranjan:
-    display_name: "Abhishek Ranjan"
-    webpage: "https://www.linkedin.com/in/ranjan1abhi/"
-    image: /img/people/Abhishek_Ranjan.jpg
-    role: staff
-
 nithin:
     display_name: "Nithin Vasishta"
     github: nithin127
     role: staff
     image: /img/people/nithin.png
-    
-tejasrao:
-    display_name: "Tejas Rao"
-    webpage: "https://www.linkedin.com/in/tejas-rao-0781201b5/"
-    image: /img/people/Tejas_Rao.jpg
-    role: staff
-
-luckykantnayak:
-    display_name: "Lucky Kant Nayak"
-    webpage: "https://www.linkedin.com/in/lucky-kant-nayak-798827171/"
-    image: /img/people/Lucky_Kant_Nayak.jpg
-    role: staff
-
-amitsawant:
-    display_name: "Amit Sawant"
-    webpage: "https://www.linkedin.com/in/amit-sawant-201677160/"
-    image: /img/people/Amit_Sawant.jpg
-    role: staff
-
-vemuru:
-    display_name: "Srihari Vemuru"
-    role: staff
     
 ddarji:
     display_name: "Darshit Darji"
@@ -79,32 +21,6 @@ narayananpp:
     role: intern
 
 # MTech Students
-mothish:
-    display_name: "GVS Mothish"
-    webpage: "https://www.linkedin.com/in/gvs-mothish-536138209/"
-    image: /img/people/GVS_Mothish.jpg
-    role: masters
-    bio: RAS, IISc
-
-sudharsan:
-    display_name: "Sudharsan"
-    webpage: "https://www.linkedin.com/in/gvs-mothish-536138209/"
-    role: masters
-    bio: RAS, IISc
-
-vaishnavb:
-    display_name: "Vaishnav B​"
-    webpage: "https://www.linkedin.com/in/vaishnav-b-55116722a/"
-    role: masters
-    bio: RAS, IISc
-
-shreyanshsharma:
-    display_name: "Shreyansh Sharma​"
-    webpage: "https://www.linkedin.com/in/shreyansh-sharma-4044b0176/"
-    image: /img/people/Shreyansh_Sharma.jpg
-    role: masters
-    bio: RAS, IISc
-
 amishra:
     display_name: "Aastha Mishra"
     image: /img/people/Aastha_Mishra.jpg
@@ -122,6 +38,25 @@ tirthsyala:
     display_name: "Tirth Siyala"
     role: masters
     bio: M Tech (Res)
+
+sudharsan:
+    display_name: "Sudharsan"
+    role: masters
+    bio: RAS
+
+vaishnavb:
+    display_name: "Vaishnav B​"
+    webpage: "https://www.linkedin.com/in/vaishnav-b-55116722a/"
+    role: masters
+    bio: RAS
+
+shreyanshsharma:
+    display_name: "Shreyansh Sharma​"
+    webpage: "https://www.linkedin.com/in/shreyansh-sharma-4044b0176/"
+    image: /img/people/Shreyansh_Sharma.jpg
+    role: masters
+    bio: RAS
+
 
 # PhD Students
 
@@ -165,6 +100,26 @@ ashirwat:
 
 
 # Alumni
+mothish:
+    display_name: "GVS Mothish"
+    webpage: "https://www.linkedin.com/in/gvs-mothish-536138209/"
+    image: /img/people/GVS_Mothish.jpg
+    role: alum
+    bio: MTech RAS 2024, Now PhD Student @ CDS, IISc
+
+abhishekranjan:
+    display_name: "Abhishek Ranjan"
+    webpage: "https://www.linkedin.com/in/ranjan1abhi/"
+    image: /img/people/Abhishek_Ranjan.jpg
+    role: alum
+    bio: MTech Research, 2024
+
+namansaxena:
+    display_name: "Naman Saxena"
+    webpage: "https://in.linkedin.com/in/naman-saxena-718b7b175"
+    image: /img/people/naman_saxena.jpg
+    role: alum
+    bio: MTech Research, 2023, Now PhD Student @ UMass Amherst
 
 aditya:
     display_name: "Aditya Sagi"
@@ -218,6 +173,52 @@ soumya:
 
 
 # Intern-Alumni
+
+vemuru:
+    display_name: "Srihari Vemuru"
+    role: intern-alum
+
+tejasrao:
+    display_name: "Tejas Rao"
+    webpage: "https://www.linkedin.com/in/tejas-rao-0781201b5/"
+    image: /img/people/Tejas_Rao.jpg
+    role: intern-alum
+
+luckykantnayak:
+    display_name: "Lucky Kant Nayak"
+    webpage: "https://www.linkedin.com/in/lucky-kant-nayak-798827171/"
+    image: /img/people/Lucky_Kant_Nayak.jpg
+    role: intern-alum
+
+amitsawant:
+    display_name: "Amit Sawant"
+    webpage: "https://www.linkedin.com/in/amit-sawant-201677160/"
+    image: /img/people/Amit_Sawant.jpg
+    role: intern-alum
+
+mjavale:
+    display_name: "Mohit Javale"
+    webpage: "https://sites.google.com/view/mohitjavale"
+    image: /img/people/mohit_javale.jpg
+    role: intern-alum
+    
+kgarg:
+    display_name: "Kartik Garg"
+    webpage: "https://sites.google.com/view/kartik-garg/home"
+    image: /img/people/Kartik_Garg.jpg
+    role: intern-alum
+    
+ketan:
+    display_name: "Ketan Nehete"
+    webpage: "https://www.linkedin.com/in/ketan-nehete"
+    image: /img/people/ketan_nehete.jpg
+    role: intern-alum
+
+karthikraj:
+    display_name: "Karthik Rajgopal"
+    webpage: "https://www.linkedin.com/in/karthik-rajgopal-1035021ba"
+    image: /img/people/Karthik_Rajgopal.jpg
+    role: intern-alum
 
 ravikola:
     display_name: "Ravi Kola"
@@ -367,26 +368,61 @@ shishir:
     github: shishirny
     role: faculty
     image: /img/people/shishir.jpg
-    bio: Assistant Professor
+    bio: Assistant Professor, CSA & CPS, IISc
+
+# Collaborators
+pushpak:
+    display_name: "Pushpak Jagtap"
+    webpage: "https://www.pushpakjagtap.com/"
+    role: collaborator
+    image: /img/people/pushpak.jpg
+    bio: Assistant Professor, CPS, IISc
+
+andrewclark:
+    display_name: "Andrew Clark"
+    webpage: "https://engineering.wustl.edu/faculty/Andrew-Clark.html"
+    role: collaborator
+    image: /img/people/clark.jpg
+    bio: Associate Professor, ESE, WUSTL
+
+jishnu:
+    display_name: "Jishnu Keshavan"
+    webpage: "https://mecheng.iisc.ac.in/people/jishnu-keshavan/"
+    role: collaborator
+    image: /img/people/jishnu.jpg
+    bio: Assistant Professor, ME, IISc
+
+ayonga:
+    display_name: "Ayonga Hereid"
+    webpage: "https://mae.osu.edu/people/hereid.1"
+    role: collaborator
+    image: /img/people/ayonga.jpg
+    bio: Assistant Professor, ME & AE, OSU
 
 bharadwaj:
     display_name: "Bharadwaj Amrutur"
     webpage: "https://aml.ece.iisc.ac.in/index.php/Bharadwaj_Amrutur"
-    #github: shishirny
-    role: faculty
+    role: collaborator
     image: /img/people/bharadwaj.jpg
-    bio: Professor
+    bio: Professor, ECE & CPS, IISc
 
 shalabh:
     display_name: "Shalabh Bhatnagar"
     webpage: "https://www.csa.iisc.ac.in/~shalabh/"
-    role: faculty
+    role: collaborator
     image: /img/people/shalabh.jpg
-    bio: Professor
+    bio: Professor, CSA, IISc
 
 ashitava:
     display_name: "Ashitava Ghosal"
     webpage: "https://mecheng.iisc.ac.in/people/ashitava-ghosal/"
-    role: faculty
+    role: collaborator
     image: /img/people/ashitava.jpg
-    bio:  Professor
+    bio:  Professor, ME, IISc (Retd.)
+
+ames:
+    display_name: "Aaron Ames"
+    webpage: "http://ames.caltech.edu/"
+    role: collaborator
+    image: /img/people/ames.jpg
+    bio: Bren Professor, ME & CDS, Caltech

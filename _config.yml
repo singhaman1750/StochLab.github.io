@@ -18,6 +18,8 @@ permalink: /research/stoch/blog/:year/:month/:day/:title.html
 roles:
   - key: faculty
     name: Faculty
+  - key: collaborator
+    name: Collaborators
   - key: staff
     name: Staff
   # - key: postdoc

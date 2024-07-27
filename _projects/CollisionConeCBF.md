@@ -11,7 +11,7 @@ people:
   - shishir
 
 layout: project
-image: "/img/c3bf.png"
+image: "/img/c3bf.gif"
 last-updated: 2023-03-28
 ---
 ## Introduction 

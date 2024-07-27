@@ -1,9 +1,62 @@
 #Current Staff members
+adityasingh:
+    display_name: "Aditya Singh"
+    webpage: "http://www.linkedin.com/in/aditya-singh-77320b207"
+    image: /img/people/Aditya_Singh.jpg
+    role: staff
+
+sarveshprasanth:
+    display_name: "Sarvesh Prasanth V"
+    webpage: "https://www.linkedin.com/in/sarvesh-prasanth-v"
+    image: /img/people/Sarvesh_Prasanth_V.jpg
+    role: staff
+
+satyamgupta:
+    display_name: "Satyam Gupta"
+    webpage: "https://www.linkedin.com/in/satyamgupta27/"
+    image: /img/people/Satyam_Gupta.jpg
+    role: staff
+
+amritanshu:
+    display_name: "Amritanshu Jain"
+    webpage: "https://www.linkedin.com/in/amritanshujain/"
+    image: /img/people/Amritanshu_Jain.jpg
+    role: staff
+
+prakharg:
+    display_name: "Prakhar Goel"
+    webpage: "https://www.linkedin.com/in/prakhar-goel-4616501a5/"
+    github: prakharg01
+    role: staff
+    image: /img/people/prakhar.jpeg
+
+mananarora:
+    display_name: "Manan Arora"
+    webpage: "https://manaro-alpha.github.io/"
+    image: /img/people/Manan_Arora.jpg
+    role: staff
+
+narayananpp:
+    display_name: "Narayanan PP"
+    webpage: "https://www.linkedin.com/in/narayanan-pp-504a10164/"
+    image: /img/people/Narayanan_PP.jpg
+    role: staff
+
 nithin:
     display_name: "Nithin Vasishta"
-    github: nithin127
-    role: staff
+    webpage: "https://www.linkedin.com/in/nithin-vasishta/"
     image: /img/people/nithin.png
+    role: staff
+
+riyaagr:
+    display_name: "Riya Agrawal"
+    webpage: "https://www.linkedin.com/in/riya-agrawal-iitb/"
+    role: staff
+
+prayuj:
+    display_name: "Prayuj Sachdev"
+    webpage: "https://www.linkedin.com/in/prayuj-sachdev-4522541ba/"
+    role: staff
     
 ddarji:
     display_name: "Darshit Darji"
@@ -13,11 +66,32 @@ vjoshi:
     display_name: "Vishnu Joshi"
     role: staff
 
+
+
 # Intern 
-narayananpp:
-    display_name: "Narayanan PP"
-    webpage: "https://www.linkedin.com/in/narayanan-pp-504a10164/"
-    image: /img/people/Narayanan_PP.jpg
+raviagrawal:
+    display_name: "Ravi Agrawal"
+    webpage: "https://www.linkedin.com/in/ravi--agrawal/"
+    role: intern
+
+adityakurande:
+    display_name: "Aditya Kurande"
+    webpage: "https://www.linkedin.com/in/aditya-kurande-15a644254/"
+    role: intern
+
+ksrinivas:
+    display_name: "K Srinivas "
+    webpage: "https://www.linkedin.com/in/sri-k08/"
+    role: intern
+
+devchandbothra:
+    display_name: "Devchand Bothra"
+    webpage: "https://www.linkedin.com/in/devchandbothra/"
+    role: intern
+
+kishorepchandra:
+    display_name: "Kishore P Chandra"
+    webpage: "https://www.linkedin.com/in/k1sh0re"
     role: intern
 
 # MTech Students
@@ -59,10 +133,9 @@ shreyanshsharma:
 
 
 # PhD Students
-
 pramod:
     display_name: "Pramod Pal"
-    webpage: "pramodpal.github.io"
+    webpage: "https://www.linkedin.com/in/pramodiisc/"
     github: ppalcx
     role: phd
     image: /img/people/pramod.jpg
@@ -101,78 +174,83 @@ ashirwat:
 
 # Alumni
 mothish:
+    display_name: "Kumar Ankit"
+    webpage: "https://krankit00.github.io/portfolio/"
+    image: /img/people/Kumar_Ankit.jpg
+    role: alum
+    bio: Ph.D., 2024
+
+mothish:
     display_name: "GVS Mothish"
     webpage: "https://www.linkedin.com/in/gvs-mothish-536138209/"
     image: /img/people/GVS_Mothish.jpg
     role: alum
-    bio: MTech RAS 2024, Now PhD Student @ CDS, IISc
+    bio: M.Tech. RAS, 2024
 
 abhishekranjan:
     display_name: "Abhishek Ranjan"
     webpage: "https://www.linkedin.com/in/ranjan1abhi/"
     image: /img/people/Abhishek_Ranjan.jpg
     role: alum
-    bio: MTech Research, 2024
+    bio: M.Tech. Research, 2024
 
 namansaxena:
     display_name: "Naman Saxena"
     webpage: "https://in.linkedin.com/in/naman-saxena-718b7b175"
     image: /img/people/naman_saxena.jpg
     role: alum
-    bio: MTech Research, 2023, Now PhD Student @ UMass Amherst
-
-aditya:
-    display_name: "Aditya Sagi"
-    webpage: "https://www.linkedin.com/in/aditya-varma-sagi/"
-    github: adityasagi
-    role:  alum
-    image: /img/people/aditya.jpeg
-    bio: Now at Chirathe Robotics
+    bio: M.Tech. Research, 2023
 
 sangeet:
     display_name: "Sangeet M"
     webpage: "https://www.linkedin.com/in/sangeetmpkd7/"
     role: alum
-    bio: MTech AI, 2023, Now at Siemens Technology
+    bio: M.Tech. AI, 2023
     
 subho:
     display_name: "Subhojyoti Khastagir"
     webpage: "https://www.linkedin.com/in/subhojyoti-khastagir-2a4716152/"
     role: alum
-    bio: MTech CSA, 2023    
+    bio: M.Tech. CSA, 2023    
 
 phani:
     display_name: "Phani M Thontepu"
     webpage: "https://in.linkedin.com/in/phani-madhusudhan-thontepu-4741ab115"
     role: alum
-    bio: MTech AI, 2022
+    bio: M.Tech. AI, 2022
 
 ankitpandita:
     display_name: "Ankit Pandita"
     webpage: "https://www.linkedin.com/in/ankit-pandita-479830205/"
     role: alum
-    bio: MTech AI, 2022, Now at LTIMindtree NxT
+    bio: M.Tech. AI, 2022
 
 govindu:
     display_name: "Palaparthi Govindu"
     webpage: "https://www.linkedin.com/in/govind100/"
     role: alum
-    bio: MTech CSA, 2022, Now at Dozee
+    bio: M.Tech. CSA, 2022
     
 devarajuvinoda:
     display_name: "Devaraju Vinoda"
     webpage: "https://www.linkedin.com/in/devaraju-vinoda/"
     role: alum
-    bio: MTech CSA,2022, Now at Oracle
+    bio: M.Tech. CSA,2022
 
 soumya:
     display_name: "Soumya Rani"
     webpage: "https://www.linkedin.com/in/soumya-rani/"
     role: alum
-    bio: MTech CSA, 2021, Now at Quantiphi
+    bio: M.Tech. CSA, 2021
 
 
 # Intern-Alumni
+aditya:
+    display_name: "Aditya Sagi"
+    webpage: "https://www.linkedin.com/in/aditya-varma-sagi/"
+    github: adityasagi
+    role:  intern-alum
+    image: /img/people/aditya.jpeg
 
 vemuru:
     display_name: "Srihari Vemuru"
@@ -228,20 +306,8 @@ vedvyas:
     display_name: "Vedvyas Danturi"
     role: intern-alum
 
-prakharg:
-    display_name: "Prakhar Goel"
-    webpage: "https://www.linkedin.com/in/prakhar-goel-4616501a5/"
-    github: prakharg01
-    role: intern-alum
-    image: /img/people/prakhar.jpeg
-    bio: Now at Chirathe Robotics
-
 sreehari:
     display_name: "Sreehari Acharaya"
-    role: intern-alum
-
-amritanshu:
-    display_name: "Amritanshu Jain"
     role: intern-alum
     
 raghav:
@@ -360,8 +426,7 @@ ajay:
     webpage: "https://ajaygunalan.github.io/"
     role: intern-alum
 
-# Profs
-
+# Prof
 shishir:
     display_name: "Shishir Kolathaya"
     webpage: "https://shishirny.github.io/"
@@ -378,13 +443,6 @@ pushpak:
     image: /img/people/pushpak.jpg
     bio: Assistant Professor, CPS, IISc
 
-andrewclark:
-    display_name: "Andrew Clark"
-    webpage: "https://engineering.wustl.edu/faculty/Andrew-Clark.html"
-    role: collaborator
-    image: /img/people/clark.jpg
-    bio: Associate Professor, ESE, WUSTL
-
 jishnu:
     display_name: "Jishnu Keshavan"
     webpage: "https://mecheng.iisc.ac.in/people/jishnu-keshavan/"
@@ -398,6 +456,20 @@ ayonga:
     role: collaborator
     image: /img/people/ayonga.jpg
     bio: Assistant Professor, ME & AE, OSU
+
+andrewclark:
+    display_name: "Andrew Clark"
+    webpage: "https://engineering.wustl.edu/faculty/Andrew-Clark.html"
+    role: collaborator
+    image: /img/people/clark.jpg
+    bio: Associate Professor, ESE, WUSTL
+
+debasish:
+    display_name: "Debasish Ghose"
+    webpage: "https://aero.iisc.ac.in/people/debasish-ghose/"
+    role: collaborator
+    image: /img/people/Debasish.jpg
+    bio: Professor, AE & CPS, IISc
 
 bharadwaj:
     display_name: "Bharadwaj Amrutur"
@@ -413,16 +485,16 @@ shalabh:
     image: /img/people/shalabh.jpg
     bio: Professor, CSA, IISc
 
-ashitava:
-    display_name: "Ashitava Ghosal"
-    webpage: "https://mecheng.iisc.ac.in/people/ashitava-ghosal/"
-    role: collaborator
-    image: /img/people/ashitava.jpg
-    bio:  Professor, ME, IISc (Retd.)
-
 ames:
     display_name: "Aaron Ames"
     webpage: "http://ames.caltech.edu/"
     role: collaborator
     image: /img/people/ames.jpg
     bio: Bren Professor, ME & CDS, Caltech
+
+ashitava:
+    display_name: "Ashitava Ghosal"
+    webpage: "https://mecheng.iisc.ac.in/people/ashitava-ghosal/"
+    role: collaborator
+    image: /img/people/ashitava.jpg
+    bio:  Prof. Satish Dhavan Chair Professor, ME, IISc (Retd.)

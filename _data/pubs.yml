@@ -155,7 +155,7 @@
   authors: [Manan Tayal, Shishir Kolathaya]
   date: 2022-07-01
   pub-type: conference
-  publisher: "Pre-print"
+  publisher: "6th Cyber Physical Symposium (CyPhySS) 2022, Bangalore, India"
   pdf: biped_arm.pdf
   projects: [LinearPolicyBiped]
   
@@ -286,3 +286,19 @@
   publisher: "American Control Conference (ACC) 2024, Toronto, Canada"
   pdf: https://arxiv.org/pdf/2303.15871.pdf
   projects: [CollisionConeCBF]
+
+- title: "Real Time Safety of Fixed-wing UAVs using Collision Cone Control Barrier Functions"
+  authors: [Aryan Agarwal*, Ravi Agrawal*, Manan Tayal, Pushpak Jagtap, Shishir Kolathaya]
+  date: 2024-07-26
+  pub-type: conference
+  publisher: "8th Cyber Physical Symposium (CyPhySS) 2024, Bangalore, India"
+  pdf: C3BF_Fixed_wing_UAV.pdf
+  projects: [CollisionConeCBF]
+
+- title: "Learning a Formally Verified Control Barrier Function in Stochastic Environment"
+  authors: [Manan Tayal, HongChao Zhang, Pushpak Jagtap, Andrew Clark, Shishir Kolathaya]
+  date: 2024-12-17
+  pub-type: conference
+  publisher: "Conference on Decision and Control (CDC) 2024, Milan, Italy"
+  pdf: https://arxiv.org/pdf/2403.19332
+  projects: [NCBF]

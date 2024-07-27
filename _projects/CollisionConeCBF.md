@@ -8,10 +8,11 @@ people:
   - manan
   - bhavya
   - phani
+  - pushpak
   - shishir
 
 layout: project
-image: "/img/c3bf.gif"
+image: "/img/C3BF/c3bf.gif"
 last-updated: 2023-03-28
 ---
 ## Introduction 
@@ -42,6 +43,16 @@ This work presents a unified approach for collision avoidance using Collision-Co
 <br/>
 ## Citation ##
 ```
+        @article{tayal2024collisionconeapproachcontrol,
+              title={A Collision Cone Approach for Control Barrier Functions}, 
+              author={Manan Tayal and Bhavya Giri Goswami and Karthik Rajgopal and Rajpal Singh and Tejas Rao and Jishnu Keshavan and Pushpak Jagtap and Shishir Kolathaya},
+              year={2024},
+              eprint={2403.07043},
+              archivePrefix={arXiv},
+              primaryClass={cs.RO},
+              url={https://arxiv.org/abs/2403.07043}, 
+        }
+        
         @article{thontepu2022control,
           title={Control Barrier Functions in UGVs for Kinematic Obstacle Avoidance: A Collision Cone Approach},
           author={Thontepu, Phani and Goswami, Bhavya Giri and Singh, Neelaksh and PI, Shyamsundar and Sundaram, Suresh and Katewa, Vaibhav and others},

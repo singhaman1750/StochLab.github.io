@@ -109,12 +109,16 @@ pkotecha:
     bio: M Tech (Res)
 
 tirthsyala:
-    display_name: "Tirth Siyala"
+    display_name: "Tirth Shiyala"
+    webpage: "https://www.linkedin.com/in/tirth-d-shiyala-262385268/"
+    image: /img/people/Tirth_Shiyala.jpg
     role: masters
     bio: M Tech (Res)
 
-sudharsan:
-    display_name: "Sudharsan"
+shreyanshsharma:
+    display_name: "Shreyansh Sharma​"
+    webpage: "https://www.linkedin.com/in/shreyansh-sharma-4044b0176/"
+    image: /img/people/Shreyansh_Sharma.jpg
     role: masters
     bio: RAS
 
@@ -124,12 +128,19 @@ vaishnavb:
     role: masters
     bio: RAS
 
-shreyanshsharma:
-    display_name: "Shreyansh Sharma​"
-    webpage: "https://www.linkedin.com/in/shreyansh-sharma-4044b0176/"
-    image: /img/people/Shreyansh_Sharma.jpg
+saga:
+    display_name: "Teja Sai Ganesh (SAGA)"
+    webpage: "https://www.linkedin.com/in/mtsaga/"
+    role: masters
+    bio: AI
+
+sudharsan:
+    display_name: "Sudharsan"
     role: masters
     bio: RAS
+
+
+
 
 
 # PhD Students

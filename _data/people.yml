@@ -60,10 +60,14 @@ prayuj:
     
 ddarji:
     display_name: "Darshit Darji"
+    webpage: "https://www.linkedin.com/in/darshit27/"
+    image: /img/people/Darshit_Darji.jpg
     role: staff
     
 vjoshi:
     display_name: "Vishnu Joshi"
+    webpage: "https://www.vishnujoshi.com/"
+    image: /img/people/Vishnu_Joshi.jpg
     role: staff
 
 
@@ -120,24 +124,29 @@ shreyanshsharma:
     webpage: "https://www.linkedin.com/in/shreyansh-sharma-4044b0176/"
     image: /img/people/Shreyansh_Sharma.jpg
     role: masters
-    bio: RAS
+    bio: M.Tech. RAS
 
 vaishnavb:
     display_name: "Vaishnav B​"
     webpage: "https://www.linkedin.com/in/vaishnav-b-55116722a/"
     role: masters
-    bio: RAS
+    bio: M.Tech. RAS
 
 saga:
     display_name: "Teja Sai Ganesh (SAGA)"
     webpage: "https://www.linkedin.com/in/mtsaga/"
     role: masters
-    bio: AI
+    bio: M.Tech. AI
 
 sudharsan:
     display_name: "Sudharsan"
     role: masters
-    bio: RAS
+    bio: M.Tech. RAS
+
+ishita:
+    display_name: "Ishita Ganjoo"
+    role: masters
+    bio: M.Tech. RAS (Sponsered student from ISRO)
 
 
 
@@ -181,6 +190,13 @@ ashirwat:
     role: phd
     image: /img/people/aditya-shirwatkar.png
     bio: Model Based RL
+
+ashirwat:
+    display_name: "Sudesh Morey"
+    webpage: "https://www.linkedin.com/in/sudesh-morey-1007218/"
+    role: phd
+    image: /img/people/Sudesh_Morey.jpg
+    bio: 
 
 
 # Alumni

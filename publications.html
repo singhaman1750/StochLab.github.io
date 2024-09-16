@@ -28,7 +28,7 @@ authors: [manan]
 <table class="table">
     <tbody>
         {% for pub in pubs %}
-            {% if pub.pub-type != "journal"%}
+            {% if pub.pub-type == "conference"%}
                 {% include pub_entry.html pub=pub prev_year=prev_year%}
                 {% assign prev_year = pub.date | date: "%Y" | to_integer %}
             {% endif %} 
@@ -36,14 +36,14 @@ authors: [manan]
     </tbody>
 </table>
 
-<h2> Workshop/Symposium Papers</h2>
+<h2> Pre-Prints</h2>
 <p> &ast; - The authors have contributed equally </p>
 {% assign prev_year = 1000 %}
 {% assign pubs = site.data.pubs | sort: "date" | reverse %}
 <table class="table">
     <tbody>
         {% for pub in pubs %}
-            {% if pub.pub-type == "workshop"%}
+            {% if pub.pub-type == "preprint"%}
                 {% include pub_entry.html pub=pub prev_year=prev_year%}
                 {% assign prev_year = pub.date | date: "%Y" | to_integer %}
             {% endif %} 

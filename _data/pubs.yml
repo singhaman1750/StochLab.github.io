@@ -194,7 +194,7 @@
 - title: "Safe Legged Locomotion using Collision Cone Control Barrier Functions (C3BFs)"
   authors: [Manan Tayal, Shishir Kolathaya]
   date: 2023-09-01
-  pub-type: conference
+  pub-type: preprint
   publisher: "Arxiv"
   pdf: https://arxiv.org/pdf/2309.01898
   projects: [CollisionConeCBF]
@@ -250,7 +250,7 @@
 - title: "Vision Based C3BF in UGV Unicycle Model"
   authors: [Sahil Bobade, Anand Sortur, Sudharsan Vishwanathan, Rushikesh Jadhav, Shishir Kolathaya]
   date: 2024-05-01
-  pub-type: conference
+  pub-type: preprint
   publisher: "Pre-print"
   pdf: Vision_Based_C3BF_in_UGV_Unicycle_Model.pdf
   projects: [CBF]

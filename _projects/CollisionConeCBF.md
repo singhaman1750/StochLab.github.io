@@ -13,7 +13,9 @@ people:
 
 layout: project
 image: "/img/C3BF/c3bf.gif"
-last-updated: 2023-03-28
+last-updated: 2024-03-28
+status: inactive
+
 ---
 ## Introduction 
 This work presents a unified approach for collision avoidance using Collision-Cone Control Barrier Functions (CBFs) in both ground (UGV) and aerial (UAV) unmanned vehicles. We propose a novel CBF formulation inspired by collision cones, commonly used in trajectory planning, to ensure safety by constraining the relative velocity between the vehicle and the obstacle to always point away from each other. The efficacy of this approach is demonstrated through simulations and hardware implementations on the Turtlebot, Stoch-Jeep (Ackermann), and Crazyflie 2.1 quadrotor robot, showcasing its effectiveness in avoiding collisions with dynamic obstacles in both ground and aerial settings. The real-time controller is developed using CBF Quadratic Programs (QPs) formulation. Comparative analysis with existing CBF-QPs, particularly Higher-Order CBF (HOCBF), highlights the less conservative nature of the proposed approach. Overall, this research contributes to a novel control formation that can give a guarantee for collision avoidance in unmanned vehicles by modifying the control inputs from existing path-planning controllers, enhancing the vehicle's maneuverability and safety in dynamic environments.

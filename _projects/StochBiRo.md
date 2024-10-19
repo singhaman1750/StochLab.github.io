@@ -1,8 +1,8 @@
 ---
-title: Stoch BiRo
+title: Learning Based Control of Stoch BiRo 1
 
 description: |
-  Design and Control of a low cost bipedal robot
+  Design and Control of a custom made low cost bipedal robot - Stoch BiRo
   
 people:
   

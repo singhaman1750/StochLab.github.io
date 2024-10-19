@@ -154,7 +154,7 @@
 - title: "Realising the role of arms on improving the stability bipedal robots"
   authors: [Manan Tayal, Shishir Kolathaya]
   date: 2022-07-01
-  pub-type: conference
+  pub-type: workshop
   publisher: "6th Cyber Physical Symposium (CyPhySS) 2022, Bangalore, India"
   pdf: biped_arm.pdf
   projects: [LinearPolicyBiped]
@@ -196,7 +196,7 @@
   date: 2023-09-01
   pub-type: preprint
   publisher: "Arxiv"
-  pdf: https://arxiv.org/pdf/2309.01898
+  pdf: Safe_Legged_C3BF.pdf
   projects: [CollisionConeCBF]
 
 - title: "Off-Policy Average Reward Actor-Critic with Deterministic Policy Search"
@@ -261,7 +261,7 @@
   pub-type: conference
   publisher: "IEEE International Conference on Robotics and Automation (ICRA) 2024, Yokohama, Japan"
   pdf: https://arxiv.org/pdf/2403.01410v1.pdf
-  projects: [StochBiRo]
+  projects: [CBF]
   
 - title: "Polygonal Cone Control Barrier Functions (PolyC2BF) for safe navigation in cluttered environments"
   authors: [Manan Tayal, Shishir Kolathaya]
@@ -288,12 +288,59 @@
   projects: [CollisionConeCBF]
 
 - title: "Real Time Safety of Fixed-wing UAVs using Collision Cone Control Barrier Functions"
-  authors: [Aryan Agarwal*, Ravi Agrawal*, Manan Tayal, Pushpak Jagtap, Shishir Kolathaya]
+  authors: [Aryan Agarwal*, Ravi Agrawal*, Manan Tayal*, Pushpak Jagtap, Shishir Kolathaya]
   date: 2024-07-26
-  pub-type: conference
+  pub-type: workshop
   publisher: "8th Cyber Physical Symposium (CyPhySS) 2024, Bangalore, India"
   pdf: C3BF_Fixed_wing_UAV.pdf
   projects: [CollisionConeCBF]
+
+- title: "Low-cost sandwiched robotic leg design for legged locomotion"
+  authors: [Aman Singh, Shishir Kolathaya]
+  date: 2024-08-29
+  pub-type: patent
+  publisher: "Indian Patent"
+  projects: [Quadruped]
+
+- title: "Revisit Anything: Visual Place Recognition via Image Segment Retrieval"
+  authors: [Kartik Garg, Sai Shubodh Puligilla, Shishir Kolathaya, Madhava Krishna, Sourav Garg]
+  date: 2024-10-02
+  pub-type: conference
+  publisher: "European Conference on Computer Vision (ECCV) 2024, Milan, Italy"
+  pdf: https://arxiv.org/pdf/2409.18049
+  projects: [Quadruped]
+
+- title: "Semi-Supervised Safe Visuomotor Policy Synthesis using Barrier Certificates"
+  authors: [Manan Tayal*, Aditya Singh*, Pushpak Jagtap, Shishir Kolathaya]
+  date: 2024-10-15
+  pub-type: workshop
+  publisher: "IROS Workshop on Formal Methods & Techniques in Robotic Systems, 2024, Abu Dhabi, UAE"
+  pdf: https://arxiv.org/pdf/2409.12616
+  projects: [CollisionConeCBF]
+
+- title: "Discrete time model predictive control for humanoid walking with step adjustment"
+  authors: [Vishnu Joshi, Suraj Kumar, Shishir Kolathaya]
+  date: 2024-12-10
+  pub-type: conference
+  publisher: "Indian Control Conference (ICC) 2024, Bhopal, India"
+  pdf: https://arxiv.org/pdf/2410.06790
+  projects: [Biped]
+
+- title: "Adaptive Control of Quadruped Robot"
+  authors: [Vamshi Kumar Kurva, Shishir Kolathaya]
+  date: 2024-12-10
+  pub-type: conference
+  publisher: "Indian Control Conference (ICC) 2024, Bhopal, India"
+  pdf: https://arxiv.org/pdf/2407.05424
+  projects: [Quadruped]
+
+- title: "BiRoDiff: Diffusion policies for bipedal robot locomotion on unseen terrains"
+  authors: [GVS Mothish, Manan Tayal, Shishir Kolathaya]
+  date: 2024-12-11
+  pub-type: conference
+  publisher: "Indian Control Conference (ICC) 2024, Bhopal, India"
+  pdf: https://arxiv.org/pdf/2407.05424
+  projects: [StochBiRo]
 
 - title: "Learning a Formally Verified Control Barrier Function in Stochastic Environment"
   authors: [Manan Tayal, HongChao Zhang, Pushpak Jagtap, Andrew Clark, Shishir Kolathaya]

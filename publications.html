@@ -7,20 +7,6 @@ authors: [manan]
     <a href="{{ site.base }}/bib/pubs.bib">Download BibTeX.</a>
 </p>-->
 
-<h2> Journal Papers</h2>
-{% assign prev_year = 1000 %}
-{% assign pubs = site.data.pubs | sort: "date" | reverse %}
-<table class="table">
-    <tbody>
-        {% for pub in pubs %}
-            {% if pub.pub-type == "journal"%}
-                {% include pub_entry.html pub=pub prev_year=prev_year%}
-                {% assign prev_year = pub.date | date: "%Y" | to_integer %}
-            {% endif %} 
-        {% endfor %}
-    </tbody>
-</table>
-
 <h2> Patents </h2>
 {% assign prev_year = 1000 %}
 {% assign pubs = site.data.pubs | sort: "date" | reverse %}
@@ -28,6 +14,20 @@ authors: [manan]
     <tbody>
         {% for pub in pubs %}
             {% if pub.pub-type == "patent"%}
+                {% include pub_entry.html pub=pub prev_year=prev_year%}
+                {% assign prev_year = pub.date | date: "%Y" | to_integer %}
+            {% endif %} 
+        {% endfor %}
+    </tbody>
+</table>
+
+<h2> Journal Papers</h2>
+{% assign prev_year = 1000 %}
+{% assign pubs = site.data.pubs | sort: "date" | reverse %}
+<table class="table">
+    <tbody>
+        {% for pub in pubs %}
+            {% if pub.pub-type == "journal"%}
                 {% include pub_entry.html pub=pub prev_year=prev_year%}
                 {% assign prev_year = pub.date | date: "%Y" | to_integer %}
             {% endif %} 

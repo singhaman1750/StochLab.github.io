@@ -300,6 +300,7 @@
   date: 2024-08-29
   pub-type: patent
   publisher: "Indian Patent"
+  pdf: patent_sandwich_leg.pdf
   projects: [Quadruped]
 
 - title: "Revisit Anything: Visual Place Recognition via Image Segment Retrieval"
@@ -326,7 +327,7 @@
   pdf: https://arxiv.org/pdf/2410.06790
   projects: [Biped]
 
-- title: "Adaptive Control of Quadruped Robot"
+- title: "Adaptive Control of Quadrupeds under varying load conditions"
   authors: [Vamshi Kumar Kurva, Shishir Kolathaya]
   date: 2024-12-10
   pub-type: conference

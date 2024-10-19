@@ -332,7 +332,7 @@
   date: 2024-12-10
   pub-type: conference
   publisher: "Indian Control Conference (ICC) 2024, Bhopal, India"
-  pdf: https://arxiv.org/pdf/2407.05424
+  pdf: Adaptive_control_load.pdf
   projects: [Quadruped]
 
 - title: "BiRoDiff: Diffusion policies for bipedal robot locomotion on unseen terrains"

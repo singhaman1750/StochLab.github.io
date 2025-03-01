@@ -350,3 +350,19 @@
   publisher: "Conference on Decision and Control (CDC) 2024, Milan, Italy"
   pdf: https://arxiv.org/pdf/2403.19332
   projects: [NCBF]
+
+- title: "PIP-Loco: A Proprioceptive Infinite Horizon Planning Framework for Quadrupedal Robot Locomotion"
+  authors: [Aditya Shirwatkar*, Naman Saxena*, Kishore Chandra, Shishir Kolathaya]
+  date: 2025-05-20
+  pub-type: conference
+  publisher: "IEEE International Conference on Robotics and Automation (ICRA) 2025, Atlanta, USA"
+  pdf: https://arxiv.org/pdf/2409.09441
+  projects: [Quadruped]
+
+- title: "A Physics-Informed Machine Learning Framework for Safe and Optimal Control of Autonomous Systems"
+  authors: [Manan Tayal*, Aditya Singh*, Shishir Kolathaya, Somil Bansal]
+  date: 2025-02-20
+  pub-type: preprint
+  publisher: "Pre-print"
+  pdf: Piml_co_opt.pdf
+  projects: [HJB]

@@ -94,19 +94,6 @@ kishorepchandra:
     role: intern
 
 # MTech Students
-amishra:
-    display_name: "Aastha Mishra"
-    image: /img/people/Aastha_Mishra.jpg
-    role: masters
-    bio: M Tech (Res)
-
-pkotecha:
-    display_name: "Prakrut Kotecha"
-    webpage: "https://www.linkedin.com/in/prakrut-kotecha-044093189/"
-    image: /img/people/Prakrut_Kotecha.jpg
-    role: masters
-    bio: M Tech (Res)
-
 tirthsyala:
     display_name: "Tirth Shiyala"
     webpage: "https://www.linkedin.com/in/tirth-d-shiyala-262385268/"
@@ -184,7 +171,20 @@ ashirwat:
     webpage: "https://aditya-shirwatkar.github.io/"
     role: phd
     image: /img/people/aditya-shirwatkar.png
-    bio: Model Based RL
+    bio: Model Based RL 
+
+amishra:
+    display_name: "Aastha Mishra"
+    image: /img/people/Aastha_Mishra.jpg
+    role: phd
+    bio: Design and Control Co-Optimization
+
+pkotecha:
+    display_name: "Prakrut Kotecha"
+    webpage: "https://www.linkedin.com/in/prakrut-kotecha-044093189/"
+    image: /img/people/Prakrut_Kotecha.jpg
+    role: phd
+    bio: Learning based controls of Legged Robots 
 
 sudesh:
     display_name: "Sudesh Morey"
@@ -192,7 +192,6 @@ sudesh:
     role: phd
     image: /img/people/Sudesh_Morey.jpg
     bio: 
-
 
 # Alumni
 krankit:

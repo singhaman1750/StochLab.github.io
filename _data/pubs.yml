@@ -370,9 +370,9 @@
   authors: [Manan Tayal*, Aditya Singh*, Shishir Kolathaya, Somil Bansal]
   date: 2025-07-15
   pub-type: conference
-  publisher: "International Conference on Machine Learning (ICML) 2025, Vancouver, Canada"
+  publisher: "42nd International Conference on Machine Learning (ICML) 2025, Vancouver, Canada"
   pdf: Piml_co_opt.pdf
-  projects: [ConformalPrediction]
+  projects: [PIMLSafePerf]
 
 - title: "Data-Driven Physics Embedded Dynamics with Predictive Control and Reinforcement Learning for Quadrupeds"
   authors: [Prakrut Kotecha, Aditya Shirwatkar, Shishir Kolathaya]

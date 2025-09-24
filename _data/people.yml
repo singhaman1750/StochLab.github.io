@@ -5,24 +5,6 @@ adityasingh:
     image: /img/people/Aditya_Singh.jpg
     role: staff
 
-sarveshprasanth:
-    display_name: "Sarvesh Prasanth V"
-    webpage: "https://www.linkedin.com/in/sarvesh-prasanth-v"
-    image: /img/people/Sarvesh_Prasanth_V.jpg
-    role: staff
-
-ksrinivas:
-    display_name: "K Srinivas "
-    webpage: "https://www.linkedin.com/in/sri-k08/"
-    role: staff
-    image: /img/people/K_Srinivas.jpeg
-
-satyamgupta:
-    display_name: "Satyam Gupta"
-    webpage: "https://www.linkedin.com/in/satyamgupta27/"
-    image: /img/people/Satyam_Gupta.jpg
-    role: staff
-
 amritanshu:
     display_name: "Amritanshu Jain"
     webpage: "https://www.linkedin.com/in/amritanshujain/"
@@ -36,35 +18,30 @@ prakharg:
     role: staff
     image: /img/people/prakhar.jpeg
 
-mananarora:
-    display_name: "Manan Arora"
-    webpage: "https://manaro-alpha.github.io/"
-    image: /img/people/Manan_Arora.jpg
-    role: staff
-
-narayananpp:
-    display_name: "Narayanan PP"
-    webpage: "https://www.linkedin.com/in/narayanan-pp-504a10164/"
-    image: /img/people/Narayanan_PP.jpg
-    role: staff
-
 nithin:
     display_name: "Nithin Vasishta"
     webpage: "https://www.linkedin.com/in/nithin-vasishta/"
     image: /img/people/nithin.png
     role: staff
-    
-ddarji:
-    display_name: "Darshit Darji"
-    webpage: "https://www.linkedin.com/in/darshit27/"
-    image: /img/people/Darshit_Darji.jpg
+
+adityakurande:
+    display_name: "Aditya Kurande"
+    webpage: "https://www.linkedin.com/in/aditya-kurande-15a644254/"
+    image: /img/people/aditya_kurande.jpeg
     role: staff
-    
-vjoshi:
-    display_name: "Vishnu Joshi"
-    webpage: "https://www.vishnujoshi.com/"
-    image: /img/people/Vishnu_Joshi.jpg
+
+abhijithrao:
+    display_name: "V Abhijith Narayan Rao"
+    webpage: "https://www.linkedin.com/in/abhijith-rao-1b33aa169/"
+    image: /img/people/abhijit_rao.jpeg
     role: staff
+
+rajkishore:
+    display_name: "Raj Kishore"
+    webpage: "https://www.linkedin.com/in/raj-kishore-55403b25a/"
+    image: /img/people/raj_kishore.jpeg
+    role: staff
+
 
 
 # Intern 
@@ -73,99 +50,36 @@ deepakkapa:
     webpage: "https://www.linkedin.com/in/deepak-kapa-iitr26/"
     role: intern
 
-prashamchedda:
-    display_name: "Prasham Chedda"
-    webpage: "https://www.linkedin.com/in/prashamchheda/"
-    role: intern
-
 mehulanand:
     display_name: "Mehul Anand"
     webpage: "https://www.linkedin.com/in/mehul-anand-7954b1250/"
     role: intern
 
-adityakurande:
-    display_name: "Aditya Kurande"
-    webpage: "https://www.linkedin.com/in/aditya-kurande-15a644254/"
-    role: fellow
-
-devchandbothra:
-    display_name: "Devchand Bothra"
-    webpage: "https://www.linkedin.com/in/devchandbothra/"
-    role: intern
 
 # MTech Students
-tirthsyala:
-    display_name: "Tirth Shiyala"
-    webpage: "https://www.linkedin.com/in/tirth-d-shiyala-262385268/"
-    image: /img/people/Tirth_Shiyala.jpg
-    role: masters
-    bio: M Tech (Res)
-
-shreyanshsharma:
-    display_name: "Shreyansh Sharma​"
-    webpage: "https://www.linkedin.com/in/shreyansh-sharma-4044b0176/"
-    image: /img/people/Shreyansh_Sharma.jpg
-    role: masters
-    bio: M.Tech. RAS
-
-vaishnavb:
-    display_name: "Vaishnav B​"
-    webpage: "https://www.linkedin.com/in/vaishnav-b-55116722a/"
-    role: masters
-    bio: M.Tech. RAS
-
-saga:
-    display_name: "Teja Sai Ganesh (SAGA)"
-    webpage: "https://www.linkedin.com/in/mtsaga/"
-    role: masters
-    bio: M.Tech. AI
-
-sudharsan:
-    display_name: "Sudharsan"
-    role: masters
-    bio: M.Tech. RAS
-
-ishita:
-    display_name: "Ishita Ganjoo"
-    role: masters
-    bio: M.Tech. RAS (Sponsered student from ISRO)
-
-adit:
-    display_name: "Adith Muralidharan"
-    role: masters
-    webpage: "https://www.linkedin.com/in/adith-m-dharan/"
-    image: /img/people/adith_m.jpeg
-    bio: M.Tech. RAS
-
 ganganair:
     display_name: "Ganga Nair"
-    webpage: "https://www.linkedin.com/in/ganga-nair-8b9014186"
+    webpage: "https://theriverroars.github.io/ganganairb.github.io/"
     role: masters
+    image: /img/people/ganga_nair.jpeg
     bio: M.Tech. RAS
 
 pranavtiwari:
     display_name: "Pranav Tiwari"
     webpage: "https://pranavtiwari.co.in/"
     role: masters
+    image: /img/people/pranav_tiwari.jpeg
     bio: M.Tech. RAS
 
 
 # PhD Students
-pramod:
-    display_name: "Pramod Pal"
-    webpage: "https://www.linkedin.com/in/pramodiisc/"
-    github: ppalcx
-    role: phd
-    image: /img/people/pramod.jpg
-    bio: Design of Legged Robots
-
 vamshi:
     display_name: "Vamshi Kumar Kurva"
     webpage: "https://vamshikumarkurva.github.io/"
     role: phd
     github: vamshikumarkurva
     image: /img/people/vamshikumar.png
-    bio: Learning Based Control
+    bio: Learning Based Adaptive Control
 
 manan:
     display_name: "Manan Tayal"
@@ -207,23 +121,69 @@ sudesh:
     webpage: "https://www.linkedin.com/in/sudesh-morey-1007218/"
     role: phd
     image: /img/people/Sudesh_Morey.jpg
-    bio: 
+    bio: Neuromorphic Event Cameras
 
 # UG
-shreenaba:
-    display_name: "Shreenabh Agrawal"
-    image: /img/people/shreenabh_agrawal.jpeg
-    role: ug
-    webpage: "https://in.linkedin.com/in/shreenabh"
-    bio: Undergraduate Student, Physics
+
 
 # Alumni
+pramod:
+    display_name: "Pramod Pal"
+    webpage: "https://www.linkedin.com/in/pramodiisc/"
+    github: ppalcx
+    role: alum
+    image: /img/people/pramod.jpg
+    bio: Ph.D., 2025
+
 krankit:
     display_name: "Kumar Ankit"
     webpage: "https://krankit00.github.io/portfolio/"
     image: /img/people/Kumar_Ankit.jpg
     role: alum
-    bio: Ph.D., 2024
+    bio: Ph.D., 2025
+
+shreyanshsharma:
+    display_name: "Shreyansh Sharma​"
+    webpage: "https://www.linkedin.com/in/shreyansh-sharma-4044b0176/"
+    image: /img/people/Shreyansh_Sharma.jpg
+    role: alum
+    bio: M.Tech. RAS, 2025
+
+vaishnavb:
+    display_name: "Vaishnav B​"
+    webpage: "https://www.linkedin.com/in/vaishnav-b-55116722a/"
+    role: alum
+    bio: M.Tech. RAS, 2025
+
+sudharsan:
+    display_name: "Sudharsan"
+    role: alum
+    bio: M.Tech. RAS, 2025
+
+ishita:
+    display_name: "Ishita Ganjoo"
+    role: alum
+    bio: M.Tech. RAS, 2025
+
+adit:
+    display_name: "Adith Muralidharan"
+    role: alum
+    webpage: "https://www.linkedin.com/in/adith-m-dharan/"
+    image: /img/people/adith_m.jpeg
+    bio: M.Tech. RAS, 2025
+
+saga:
+    display_name: "Teja Sai Ganesh (SAGA)"
+    webpage: "https://www.linkedin.com/in/mtsaga/"
+    role: alum
+    bio: M.Tech. AI, 2025
+
+shreenaba:
+    display_name: "Shreenabh Agrawal"
+    image: /img/people/shreenabh_agrawal.jpeg
+    role: alum
+    webpage: "https://in.linkedin.com/in/shreenabh"
+    bio: BS Physics, 2025
 
 mothish:
     display_name: "GVS Mothish"
@@ -290,6 +250,48 @@ soumya:
 
 
 # Intern-Alumni
+sarveshprasanth:
+    display_name: "Sarvesh Prasanth V"
+    webpage: "https://www.linkedin.com/in/sarvesh-prasanth-v"
+    image: /img/people/Sarvesh_Prasanth_V.jpg
+    role: intern-alum
+
+ksrinivas:
+    display_name: "K Srinivas "
+    webpage: "https://www.linkedin.com/in/sri-k08/"
+    role: intern-alum
+    image: /img/people/K_Srinivas.jpeg
+
+satyamgupta:
+    display_name: "Satyam Gupta"
+    webpage: "https://www.linkedin.com/in/satyamgupta27/"
+    image: /img/people/Satyam_Gupta.jpg
+    role: intern-alum
+
+mananarora:
+    display_name: "Manan Arora"
+    webpage: "https://manaro-alpha.github.io/"
+    image: /img/people/Manan_Arora.jpg
+    role: intern-alum
+
+narayananpp:
+    display_name: "Narayanan PP"
+    webpage: "https://www.linkedin.com/in/narayanan-pp-504a10164/"
+    image: /img/people/Narayanan_PP.jpg
+    role: intern-alum
+
+ddarji:
+    display_name: "Darshit Darji"
+    webpage: "https://www.linkedin.com/in/darshit27/"
+    image: /img/people/Darshit_Darji.jpg
+    role: intern-alum
+    
+vjoshi:
+    display_name: "Vishnu Joshi"
+    webpage: "https://www.vishnujoshi.com/"
+    image: /img/people/Vishnu_Joshi.jpg
+    role: intern-alum
+
 aditya:
     display_name: "Aditya Sagi"
     webpage: "https://www.linkedin.com/in/aditya-varma-sagi/"
@@ -514,12 +516,12 @@ pushpak:
     image: /img/people/pushpak.jpg
     bio: Assistant Professor, CPS, IISc
 
-# majidkhadiv:
-#     display_name: "Majid Khadiv"
-#     webpage: "https://www.ce.cit.tum.de/en/aipd/members/majid-khadiv/"
-#     role: collaborator
-#     image: /img/people/majid_khadiv.jpeg
-#     bio: Assistant Professor, CIT, TUM
+majidkhadiv:
+    display_name: "Majid Khadiv"
+    webpage: "https://www.ce.cit.tum.de/en/aipd/members/majid-khadiv/"
+    role: collaborator
+    image: /img/people/majid_khadiv.jpeg
+    bio: Assistant Professor, CIT, TUM
 
 debasish:
     display_name: "Debasish Ghose"

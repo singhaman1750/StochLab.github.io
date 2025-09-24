@@ -318,14 +318,6 @@
   pdf: https://arxiv.org/pdf/2409.18049
   projects: [Quadruped]
 
-- title: "Semi-Supervised Safe Visuomotor Policy Synthesis using Barrier Certificates"
-  authors: [Manan Tayal*, Aditya Singh*, Pushpak Jagtap, Shishir Kolathaya]
-  date: 2024-10-15
-  pub-type: workshop
-  publisher: "IROS Workshop on Formal Methods & Techniques in Robotic Systems, 2024, Abu Dhabi, UAE"
-  pdf: https://arxiv.org/pdf/2409.12616
-  projects: [CollisionConeCBF]
-
 - title: "Discrete time model predictive control for humanoid walking with step adjustment"
   authors: [Vishnu Joshi, Suraj Kumar, Shishir Kolathaya]
   date: 2024-12-10
@@ -414,6 +406,14 @@
   pdf: https://arxiv.org/pdf/2503.14255
   projects: [CodesignOptimization]
 
+- title: "Investigating Lagrangian Neural Networks for Infinite Horizon Planning in Quadrupedal Locomotion"
+  authors: [Prakrut Kotecha, Aditya Shirwatkar, Shishir Kolathaya]
+  date: 2025-07-03
+  pub-type: conference
+  publisher: "7th International Conference of Advances In Robotics (AIR) 2025"
+  pdf: https://www.arxiv.org/pdf/2506.16079
+  projects: [PEPC]
+
 - title: "CP-NCBF: A Conformal Prediction-based Approach to Synthesize Verified Neural Control Barrier Functions"
   authors: [Manan Tayal*, Aditya Singh*, Pushpak Jagtap, Shishir Kolathaya]
   date: 2025-03-20
@@ -428,4 +428,36 @@
   pub-type: preprint
   publisher: "Pre-print"
   pdf: https://arxiv.org/pdf/2504.11045
+  projects: [NCBF]
+
+- title: "Safety Certification in the Latent Space Using Control Barrier Functions and World Models"
+  authors: [Mehul Anand, Shishir Kolathaya]
+  date: 2025-12-01
+  pub-type: conference
+  publisher: "Indian Control Conference (ICC) 2025, Bangalore, India"
+  pdf: https://www.arxiv.org/pdf/2507.13871
+  projects: [NCBF]
+
+- title: "Safe and Performant Controller Synthesis using Gradient-based Model Predictive Control and Control Barrier Functions"
+  authors: [Aditya Singh*, Aastha Mishra*, Manan Tayal, Shishir Kolathaya, Pushpak Jagtap ]
+  date: 2025-12-01
+  pub-type: conference
+  publisher: "Indian Control Conference (ICC) 2025, Bangalore, India"
+  pdf: https://arxiv.org/pdf/2507.13872
+  projects: [NCBF]
+
+- title: "Real-Time Gait Adaptation for Quadrupeds using Model Predictive Control and Reinforcement Learning"
+  authors: [Ganga Nair*, Prakrut Kotecha*, Shishir Kolathaya]
+  date: 2025-12-01
+  pub-type: conference
+  publisher: "Indian Control Conference (ICC) 2025, Bangalore, India"
+  pdf: https://www.arxiv.org/pdf/2506.16079
+  projects: [PEPC]
+
+- title: "Semi-Supervised Safe Visuomotor Policy Synthesis using Barrier Certificates"
+  authors: [Manan Tayal*, Aditya Singh*, Pushpak Jagtap, Shishir Kolathaya]
+  date: 2025-12-15
+  pub-type: conference
+  publisher: "Conference on Decision and Control (CDC) 2025, Rio, Brazil"
+  pdf: https://arxiv.org/pdf/2409.12616
   projects: [NCBF]

@@ -33,7 +33,7 @@ adityakurande:
 abhijithrao:
     display_name: "V Abhijith Narayan Rao"
     webpage: "https://www.linkedin.com/in/abhijith-rao-1b33aa169/"
-    image: /img/people/abhijit_rao.jpeg
+    image: /img/people/abhijith_rao.jpeg
     role: staff
 
 rajkishore:
@@ -48,6 +48,7 @@ rajkishore:
 deepakkapa:
     display_name: "Deepak Kapa"
     webpage: "https://www.linkedin.com/in/deepak-kapa-iitr26/"
+    image: /img/people/Deepak_kappa.png
     role: intern
 
 mehulanand:

@@ -374,14 +374,6 @@
   pdf: https://www.stochlab.com/PEPC/
   projects: [PEPC]
 
-- title: "MULE: Multi-terrain and Unknown Load Adaptation for Effective Quadrupedal Locomotion"
-  authors: [Vamshi Kumar Kurva, Shishir Kolathaya]
-  date: 2025-02-20
-  pub-type: preprint
-  publisher: "Pre-print"
-  pdf: https://arxiv.org/pdf/2505.00488
-  projects: [MULE]
-
 - title: "A Chain-Driven, Sandwich-Legged Quadruped Robot: Design and Experimental Analysis"
   authors: [Aman Singh, Bhavya Giri Goswami, Ketan Nehete, Shishir N. Y. Kolathaya]
   date: 2025-07-03
@@ -430,6 +422,14 @@
   pdf: https://arxiv.org/pdf/2504.11045
   projects: [NCBF]
 
+- title: "A Co-Design Framework for Energy-Aware Monoped Jumping with Detailed Actuator Modeling"
+  authors: [Aman Singh*, Aastha Mishra*, Deepak Kapa, Suryank Joshi, Shishir Kolathaya]
+  date: 2025-10-01
+  pub-type: conference
+  publisher: "IEEE-RAS International Conference on Humanoid Robots"
+  pdf: https://ieeexplore.ieee.org/abstract/document/11203144
+  projects: [CodesignOptimization]
+
 - title: "Safety Certification in the Latent Space Using Control Barrier Functions and World Models"
   authors: [Mehul Anand, Shishir Kolathaya]
   date: 2025-12-01
@@ -461,3 +461,35 @@
   publisher: "Conference on Decision and Control (CDC) 2025, Rio, Brazil"
   pdf: https://arxiv.org/pdf/2409.12616
   projects: [NCBF]
+
+- title: "A Collision Cone approach for Control Barrier Functions"
+  authors: [Manan Tayal, Bhavya Giri Goswami, Karthik Rajgopal, Rajpal Singh, Tejas Rao, Jishnu Keshavan, Pushpak Jagtap, Shishir Kolathaya]
+  date: 2025-12-20
+  pub-type: journal
+  publisher: "Transactions on Control System Technology (TCST)"
+  pdf: https://arxiv.org/pdf/2403.07043
+  projects: [CollisionConeCBF]
+
+- title: "MAD-PINN: A Decentralized Physics-Informed Machine Learning Framework for Safe and Optimal Multi-Agent Control"
+  authors: [Manan Tayal*, Aditya Singh*, Shishir Kolathaya, Somil Bansal]
+  date: 2026-01-26
+  pub-type: workshop
+  publisher: "AAAI Workshop on Multi-Agent Path Planning"
+  pdf: https://arxiv.org/pdf/2509.23960
+  projects: [PIMLSafePerf]
+
+- title: "V-OCBF: Learning Safety Filters from Offline Data via Value-Guided Offline Control Barrier Functions"
+  authors: [Mumuksh Tayal*, Manan Tayal*, Aditya Singh, Shishir Kolathaya, Ravi Prakash]
+  date: 2026-01-26
+  pub-type: workshop
+  publisher: "AAAI Workshop on Deployable AI (Oral)"
+  pdf: V_OCBF_AAAI26_DAI.pdf
+  projects: [NCBF]
+
+- title: "MULE: Multi-terrain and Unknown Load Adaptation for Effective Quadrupedal Locomotion"
+  authors: [Vamshi Kumar Kurva, Shishir Kolathaya]
+  date: 2026-01-15
+  pub-type: journal
+  publisher: "IEEE Robotics and Automation Letters (RAL)"
+  pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11242040
+  projects: [MULE]

@@ -6,6 +6,7 @@ description: |
 people:
   - amansingh
   - amishra
+  - deepakkapa
   - shishir
 
 layout: project
